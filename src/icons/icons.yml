@@ -7489,7 +7489,7 @@ icons:
     url:        buymeacoffee.com
     categories:
       - Brand Icons
-  
+
   - name:       Creative Commons BY
     id:         cc-by
     unicode:    f33e
@@ -7519,7 +7519,7 @@ icons:
       - Web Application Icons
       - Brand Icons
 
-        
+
   - name:       Creative Commons NC-JP
     id:         cc-nc-jp
     unicode:    f342
@@ -7528,7 +7528,7 @@ icons:
     categories:
       - Web Application Icons
       - Brand Icons
-        
+
   - name:       Creative Commons NC
     id:         cc-nc
     unicode:    f340
@@ -7597,7 +7597,7 @@ icons:
     unicode:      f349
     created:      1.2
     aliases:
-      - conway-hacker 
+      - conway-hacker
     url:          en.wikipedia.org/wiki/Glider_(Conway's_Life)
     categories:
       - Brand Icons
@@ -7608,7 +7608,7 @@ icons:
     created:    1.2
     url:        csharp.net
     categories:
-      - Brand Icons      
+      - Brand Icons
 
   - name:       Email Bulk
     id:         email-bulk
@@ -7654,7 +7654,7 @@ icons:
     created:    1.2
     url:        play.google.com
     categories:
-      - Brand Icons      
+      - Brand Icons
 
   - name:       Heroku
     id:         heroku
@@ -7670,7 +7670,7 @@ icons:
     created:    1.2
     url:        home-assistant.io
     aliases:
-      - hassio        
+      - hassio
     categories:
       - Brand Icons
 
@@ -7744,7 +7744,7 @@ icons:
     created:    1.2
     url:        sass-lang.com
     categories:
-      - Brand Icons      
+      - Brand Icons
 
   - name:       Skate
     id:         skate
@@ -7913,13 +7913,22 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       note-com
+    id:         note-com
+    unicode:    f36d
+    created:    1.3
+    aliases:
+      - note-mu
+      - note-jp
+    url:        note.com
+    categories:
+      - Brand Icons
+
   - name:       Qiita
     id:         qiita
     unicode:    f36f
     created:    1.3
     url:        qiita.com
-    categories:
-      - Brand Icons
 
 
 
