@@ -7912,28 +7912,3 @@ icons:
     url:        ubuntu.com
     categories:
       - Brand Icons
-<<<<<<< HEAD
-
-  - name:       note-com
-    id:         note-com
-    unicode:    f36d
-    created:    1.3
-    aliases:
-      - note-mu
-      - note-jp
-    url:        note.com
-    categories:
-      - Brand Icons
-
-
-
-=======
-  
-  - name:       Strava
-    id:         strava
-    unicode:    f36c
-    created:    1.3
-    url:        strava.com
-    categories:
-      - Brand Icons
->>>>>>> e588d719 (Add Strava icon)
