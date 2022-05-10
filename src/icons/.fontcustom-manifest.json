@@ -1,7 +1,12 @@
 {
   "checksum": {
+<<<<<<< HEAD
     "previous": "0a5cfbcc5436ea854eb765f3a613bd2bfa7e06ec419c31ef81c337987d577e9f",
     "current": "0a5cfbcc5436ea854eb765f3a613bd2bfa7e06ec419c31ef81c337987d577e9f"
+=======
+    "previous": "9199a40e7d4d38751b31c1c1b4ea7f87d3909f736203ecd85ab32db3908a8cb1",
+    "current": "9199a40e7d4d38751b31c1c1b4ea7f87d3909f736203ecd85ab32db3908a8cb1"
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -130,6 +135,10 @@
     "archlinux": {
       "codepoint": 62243,
       "source": "svg/archlinux.svg"
+    },
+    "are-na": {
+      "codepoint": 62320,
+      "source": "svg/are-na.svg"
     },
     "area-chart": {
       "codepoint": 61950,
@@ -484,7 +493,11 @@
       "source": "svg/camera-retro.svg"
     },
     "canonical": {
+<<<<<<< HEAD
       "codepoint": 62314,
+=======
+      "codepoint": 62305,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/canonical.svg"
     },
     "car": {
@@ -736,7 +749,11 @@
       "source": "svg/code-fork.svg"
     },
     "codeberg": {
+<<<<<<< HEAD
       "codepoint": 62310,
+=======
+      "codepoint": 62306,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/codeberg.svg"
     },
     "codepen": {
@@ -908,6 +925,7 @@
       "source": "svg/discord-alt.svg"
     },
     "discourse": {
+<<<<<<< HEAD
       "codepoint": 62311,
       "source": "svg/discourse.svg"
     },
@@ -915,6 +933,11 @@
       "codepoint": 62316,
       "source": "svg/docker.svg"
     },
+=======
+      "codepoint": 62307,
+      "source": "svg/discourse.svg"
+    },
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
     "dogmazic": {
       "codepoint": 62211,
       "source": "svg/dogmazic.svg"
@@ -1100,7 +1123,11 @@
       "source": "svg/fax.svg"
     },
     "fediverse": {
+<<<<<<< HEAD
       "codepoint": 62305,
+=======
+      "codepoint": 62310,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/fediverse.svg"
     },
     "female": {
@@ -1276,7 +1303,11 @@
       "source": "svg/free-code-camp.svg"
     },
     "freedesktop": {
+<<<<<<< HEAD
       "codepoint": 62313,
+=======
+      "codepoint": 62311,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/freedesktop.svg"
     },
     "freedombox": {
@@ -1536,7 +1567,11 @@
       "source": "svg/heartbeat.svg"
     },
     "hedgedoc": {
+<<<<<<< HEAD
       "codepoint": 62304,
+=======
+      "codepoint": 62312,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/hedgedoc.svg"
     },
     "heroku": {
@@ -1656,7 +1691,11 @@
       "source": "svg/ioxhost.svg"
     },
     "ipfs": {
+<<<<<<< HEAD
       "codepoint": 62322,
+=======
+      "codepoint": 62313,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/ipfs.svg"
     },
     "italic": {
@@ -1668,7 +1707,11 @@
       "source": "svg/java.svg"
     },
     "javascript": {
+<<<<<<< HEAD
       "codepoint": 62320,
+=======
+      "codepoint": 62314,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/javascript.svg"
     },
     "jirafeau": {
@@ -1748,7 +1791,11 @@
       "source": "svg/leanpub.svg"
     },
     "lemmy": {
+<<<<<<< HEAD
       "codepoint": 62321,
+=======
+      "codepoint": 62315,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/lemmy.svg"
     },
     "lemon-o": {
@@ -2016,7 +2063,11 @@
       "source": "svg/mouse-pointer.svg"
     },
     "mumble": {
+<<<<<<< HEAD
       "codepoint": 62312,
+=======
+      "codepoint": 62316,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/mumble.svg"
     },
     "music": {
@@ -2092,7 +2143,11 @@
       "source": "svg/orcid.svg"
     },
     "osi": {
+<<<<<<< HEAD
       "codepoint": 62307,
+=======
+      "codepoint": 62317,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/osi.svg"
     },
     "outdent": {
@@ -2268,7 +2323,11 @@
       "source": "svg/product-hunt.svg"
     },
     "proftpd": {
+<<<<<<< HEAD
       "codepoint": 62306,
+=======
+      "codepoint": 62318,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/proftpd.svg"
     },
     "puzzle-piece": {
@@ -2988,7 +3047,11 @@
       "source": "svg/twitter-square.svg"
     },
     "ubuntu": {
+<<<<<<< HEAD
       "codepoint": 62315,
+=======
+      "codepoint": 62319,
+>>>>>>> a9f27d3c (Add Are.na Brand Logo)
       "source": "svg/ubuntu.svg"
     },
     "umbrella": {
