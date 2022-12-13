@@ -7932,3 +7932,11 @@ icons:
 
 
 
+
+  - name:       Strava
+    id:         strava
+    unicode:    f36c
+    created:    1.3
+    url:        strava.com
+    categories:
+      - Brand Icons
