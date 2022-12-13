@@ -7913,6 +7913,14 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       Strava
+    id:         strava
+    unicode:    f36c
+    created:    1.3
+    url:        strava.com
+    categories:
+      - Brand Icons
+
   - name:       note-com
     id:         note-com
     unicode:    f36d
@@ -7929,6 +7937,3 @@ icons:
     unicode:    f36f
     created:    1.3
     url:        qiita.com
-
-
-
