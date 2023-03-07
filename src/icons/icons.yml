@@ -7945,3 +7945,9 @@ icons:
     unicode:    f36f
     created:    1.3
     url:        qiita.com
+
+  - name:       Blogger
+    id:         blogger
+    unicode:    f371
+    created:    1.3
+    url:        blogger.com
