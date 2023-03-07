@@ -69,9 +69,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   left: -1.85714286em;
 }
 .fa-border {
-  padding: .2em .25em .15em;
+  padding: 0.2em 0.25em 0.15em;
   border: solid 0.08em #eee;
-  border-radius: .1em;
+  border-radius: 0.1em;
 }
 .fa-pull-left {
   float: left;
@@ -80,10 +80,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   float: right;
 }
 .fa.fa-pull-left {
-  margin-right: .3em;
+  margin-right: 0.3em;
 }
 .fa.fa-pull-right {
-  margin-left: .3em;
+  margin-left: 0.3em;
 }
 /* Deprecated as of 4.4.0 */
 .pull-right {
@@ -93,10 +93,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   float: left;
 }
 .fa.pull-left {
-  margin-right: .3em;
+  margin-right: 0.3em;
 }
 .fa.pull-right {
-  margin-left: .3em;
+  margin-left: 0.3em;
 }
 .fa-spin {
   -webkit-animation: fa-spin 2s infinite linear;
@@ -2711,6 +2711,74 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-unity:before {
   content: "\f35e";
+}
+.fa-hedgedoc:before {
+  content: "\f360";
+}
+.fa-fediverse:before {
+  content: "\f361";
+}
+.fa-proftpd:before {
+  content: "\f362";
+}
+.fa-osi:before {
+  content: "\f363";
+}
+.fa-eyeem:before {
+  content: "\f364";
+}
+.fa-eyeem-o:before {
+  content: "\f365";
+}
+.fa-codeberg:before {
+  content: "\f366";
+}
+.fa-discourse:before {
+  content: "\f367";
+}
+.fa-mumble:before {
+  content: "\f368";
+}
+.fa-freedesktop:before {
+  content: "\f369";
+}
+.fa-javascript:before {
+  content: "\f370";
+}
+.fa-lemmy:before {
+  content: "\f371";
+}
+.fa-ipfs:before {
+  content: "\f372";
+}
+.fa-canonical:before {
+  content: "\f36a";
+}
+.fa-ubuntu:before {
+  content: "\f36b";
+}
+.fa-strava:before {
+  content: "\f36c";
+}
+.fa-note-mu:before,
+.fa-note-jp:before,
+.fa-note-com:before {
+  content: "\f36d";
+}
+.fa-sourcehut:before {
+  content: "\f36e";
+}
+.fa-qiita:before {
+  content: "\f36f";
+}
+.fa-are-na:before {
+  content: "\f370";
+}
+.fa-blogger:before {
+  content: "\f371";
+}
+.fa-docker:before {
+  content: "\f372";
 }
 .sr-only {
   position: absolute;
