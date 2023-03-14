@@ -189,6 +189,67 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 /* Fork Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+.fa-dollar-sign:before {
+  content: "\0024";
+}
+.fa-percent-sign:before {
+  content: "\0025";
+}
+.fa-asterisk-ascii:before {
+  content: "\002a";
+}
+.fa-commercial-at:before {
+  content: "\0040";
+}
+.fa-pound-sign:before {
+  content: "\00a3";
+}
+.fa-yen-sign:before {
+  content: "\00a5";
+}
+.fa-copyright-sign:before {
+  content: "\00a9";
+}
+.fa-registered-sign:before {
+  content: "\00ae";
+}
+.fa-won-sign:before {
+  content: "\20a9";
+}
+.fa-new-sheqel-sign:before {
+  content: "\20aa";
+}
+.fa-euro-currency-sign:before {
+  content: "\20ac";
+}
+.fa-indian-rupee-sign:before {
+  content: "\20b9";
+}
+.fa-turkish-lira-sign:before {
+  content: "\20ba";
+}
+.fa-ruble-sign:before {
+  content: "\20bd";
+}
+.fa-bitcoin-sign:before {
+  content: "\20bf";
+}
+.fa-trade-mark-sign:before {
+  content: "\2122";
+}
+.fa-unity:before {
+  content: "\e049";
+}
+.fa-unsplash:before {
+  content: "\e07c";
+}
+.fa-turkish-lira:before,
+.fa-try:before {
+  content: "\e2bb";
+}
+.fa-hashnode:before {
+  content: "\e499";
+}
 .fa-glass:before {
   content: "\f000";
 }
@@ -236,6 +297,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-search-plus:before {
   content: "\f00e";
 }
+.fa-mumble:before {
+  content: "\f00f";
+}
 .fa-search-minus:before {
   content: "\f010";
 }
@@ -279,9 +343,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-play-circle-o:before {
   content: "\f01d";
 }
-.fa-rotate-right:before,
 .fa-repeat:before {
   content: "\f01e";
+}
+.fa-freedesktop:before {
+  content: "\f01f";
 }
 .fa-sync:before,
 .fa-refresh:before {
@@ -378,6 +444,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-picture-o:before {
   content: "\f03e";
 }
+.fa-note-mu:before,
+.fa-note-jp:before,
+.fa-note-com:before {
+  content: "\f03f";
+}
 .fa-pencil:before {
   content: "\f040";
 }
@@ -424,6 +495,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-forward:before {
   content: "\f04e";
 }
+.fa-sourcehut:before {
+  content: "\f04f";
+}
 .fa-fast-forward:before {
   content: "\f050";
 }
@@ -468,6 +542,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-ban:before {
   content: "\f05e";
+}
+.fa-qiita:before {
+  content: "\f05f";
 }
 .fa-arrow-left:before {
   content: "\f060";
@@ -515,6 +592,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-eye:before {
   content: "\f06e";
 }
+.fa-lemmy:before {
+  content: "\f06f";
+}
 .fa-eye-slash:before {
   content: "\f070";
 }
@@ -560,6 +640,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-arrows-h:before {
   content: "\f07e";
+}
+.fa-ipfs:before {
+  content: "\f07f";
 }
 .fa-bar-chart-o:before,
 .fa-bar-chart:before {
@@ -608,6 +691,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-external-link:before {
   content: "\f08e";
 }
+.fa-canonical:before {
+  content: "\f08f";
+}
 .fa-sign-in:before {
   content: "\f090";
 }
@@ -655,14 +741,17 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-rss:before {
   content: "\f09e";
 }
+.fa-are-na:before {
+  content: "\f09f";
+}
 .fa-hdd-o:before {
   content: "\f0a0";
 }
 .fa-bullhorn:before {
   content: "\f0a1";
 }
-.fa-bell-o:before {
-  content: "\f0f3";
+.fa-bell:before {
+  content: "\f0a2";
 }
 .fa-certificate:before {
   content: "\f0a3";
@@ -694,17 +783,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-globe:before {
   content: "\f0ac";
 }
-.fa-globe-e:before {
-  content: "\f304";
-}
-.fa-globe-w:before {
-  content: "\f305";
-}
 .fa-wrench:before {
   content: "\f0ad";
 }
 .fa-tasks:before {
   content: "\f0ae";
+}
+.fa-zotero:before {
+  content: "\f0af";
 }
 .fa-filter:before {
   content: "\f0b0";
@@ -714,6 +800,46 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-arrows-alt:before {
   content: "\f0b2";
+}
+.fa-hackaday:before {
+  content: "\f0b3";
+}
+.fa-signalapp:before {
+  content: "\f0b4";
+}
+.fa-ssb:before,
+.fa-scuttlebutt:before {
+  content: "\f0b5";
+}
+.fa-gnu-social:before {
+  content: "\f0b6";
+}
+.fa-friendica:before {
+  content: "\f0b7";
+}
+.fa-snowdrift:before {
+  content: "\f0b8";
+}
+.fa-shaarli:before {
+  content: "\f0b9";
+}
+.fa-shaarli-o:before {
+  content: "\f0ba";
+}
+.fa-dogmazic:before {
+  content: "\f0bb";
+}
+.fa-free-f0bc:before {
+  content: "\f0bc";
+}
+.fa-free-f0bd:before {
+  content: "\f0bd";
+}
+.fa-free-f0be:before {
+  content: "\f0be";
+}
+.fa-free-f0bf:before {
+  content: "\f0bf";
 }
 .fa-community:before,
 .fa-group:before,
@@ -768,6 +894,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-table:before {
   content: "\f0ce";
 }
+.fa-free-f0cf:before {
+  content: "\f0cf";
+}
 .fa-magic:before {
   content: "\f0d0";
 }
@@ -817,13 +946,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-sort-asc:before {
   content: "\f0de";
 }
+.fa-free-f0df:before {
+  content: "\f0df";
+}
 .fa-envelope:before {
   content: "\f0e0";
 }
 .fa-linkedin:before {
   content: "\f0e1";
 }
-.fa-rotate-left:before,
 .fa-undo:before {
   content: "\f0e2";
 }
@@ -851,8 +982,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-umbrella:before {
   content: "\f0e9";
 }
-.fa-paste:before,
-.fa-clipboard:before {
+.fa-paste:before {
   content: "\f0ea";
 }
 .fa-lightbulb-o:before {
@@ -867,6 +997,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-cloud-upload:before {
   content: "\f0ee";
 }
+.fa-free-f0ef:before {
+  content: "\f0ef";
+}
 .fa-user-md:before {
   content: "\f0f0";
 }
@@ -876,13 +1009,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-suitcase:before {
   content: "\f0f2";
 }
-.fa-bell:before {
-  content: "\f0a2";
+.fa-bell-o:before {
+  content: "\f0f3";
 }
 .fa-coffee:before {
   content: "\f0f4";
 }
-.fa-utensils:before,
 .fa-cutlery:before {
   content: "\f0f5";
 }
@@ -912,6 +1044,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-plus-square:before {
   content: "\f0fe";
+}
+.fa-free-f0ff:before {
+  content: "\f0ff";
 }
 .fa-angle-double-left:before {
   content: "\f100";
@@ -959,6 +1094,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-quote-right:before {
   content: "\f10e";
 }
+.fa-free-f10f:before {
+  content: "\f10f";
+}
 .fa-spinner:before {
   content: "\f110";
 }
@@ -977,6 +1115,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-folder-open-o:before {
   content: "\f115";
+}
+.fa-free-f116:before {
+  content: "\f116";
+}
+.fa-free-f117:before {
+  content: "\f117";
 }
 .fa-smile-o:before {
   content: "\f118";
@@ -998,6 +1142,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-flag-checkered:before {
   content: "\f11e";
+}
+.fa-free-f11f:before {
+  content: "\f11f";
 }
 .fa-terminal:before {
   content: "\f120";
@@ -1048,6 +1195,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-puzzle-piece:before {
   content: "\f12e";
 }
+.fa-free-f12f:before {
+  content: "\f12f";
+}
 .fa-microphone:before {
   content: "\f130";
 }
@@ -1092,6 +1242,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-unlock-alt:before {
   content: "\f13e";
+}
+.fa-free-f13f:before {
+  content: "\f13f";
 }
 .fa-bullseye:before {
   content: "\f140";
@@ -1138,6 +1291,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-compass:before {
   content: "\f14e";
 }
+.fa-free-f14f:before {
+  content: "\f14f";
+}
 .fa-toggle-down:before,
 .fa-caret-square-o-down:before {
   content: "\f150";
@@ -1181,7 +1337,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-krw:before {
   content: "\f159";
 }
-.fa-bitcoin:before,
 .fa-btc:before {
   content: "\f15a";
 }
@@ -1198,6 +1353,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-sort-alpha-up:before,
 .fa-sort-alpha-desc:before {
   content: "\f15e";
+}
+.fa-free-f15f:before {
+  content: "\f15f";
 }
 .fa-sort-amount-down:before,
 .fa-sort-amount-asc:before {
@@ -1248,6 +1406,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-flickr:before {
   content: "\f16e";
 }
+.fa-free-f16f:before {
+  content: "\f16f";
+}
 .fa-adn:before {
   content: "\f170";
 }
@@ -1292,6 +1453,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-skype:before {
   content: "\f17e";
+}
+.fa-free-f17f:before {
+  content: "\f17f";
 }
 .fa-foursquare:before {
   content: "\f180";
@@ -1339,6 +1503,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-arrow-circle-o-right:before {
   content: "\f18e";
 }
+.fa-free-f18f:before {
+  content: "\f18f";
+}
 .fa-arrow-circle-o-left:before {
   content: "\f190";
 }
@@ -1355,8 +1522,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-vimeo-square:before {
   content: "\f194";
 }
-.fa-turkish-lira:before,
-.fa-try:before {
+.fa-lira-sign:before {
   content: "\f195";
 }
 .fa-plus-square-o:before {
@@ -1389,6 +1555,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-yahoo:before {
   content: "\f19e";
 }
+.fa-free-f19f:before {
+  content: "\f19f";
+}
 .fa-google:before {
   content: "\f1a0";
 }
@@ -1410,6 +1579,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-digg:before {
   content: "\f1a6";
 }
+.fa-pied-piper-pp:before {
+  content: "\f1a7";
+}
+.fa-pied-piper-alt:before {
+  content: "\f1a8";
+}
 .fa-drupal:before {
   content: "\f1a9";
 }
@@ -1428,10 +1603,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-child:before {
   content: "\f1ae";
 }
+.fa-free-f1af:before {
+  content: "\f1af";
+}
 .fa-paw:before {
   content: "\f1b0";
 }
-.fa-utensil-spoon:before,
 .fa-spoon:before {
   content: "\f1b1";
 }
@@ -1475,6 +1652,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-soundcloud:before {
   content: "\f1be";
+}
+.fa-free-f1bf:before {
+  content: "\f1bf";
 }
 .fa-database:before {
   content: "\f1c0";
@@ -1530,6 +1710,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-circle-o-notch:before {
   content: "\f1ce";
 }
+.fa-free-f1cf:before {
+  content: "\f1cf";
+}
 .fa-ra:before,
 .fa-resistance:before,
 .fa-rebel:before {
@@ -1584,6 +1767,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-sliders:before {
   content: "\f1de";
 }
+.fa-free-f1df:before {
+  content: "\f1df";
+}
 .fa-share-alt:before {
   content: "\f1e0";
 }
@@ -1630,6 +1816,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-google-wallet:before {
   content: "\f1ee";
 }
+.fa-free-f1ef:before {
+  content: "\f1ef";
+}
 .fa-cc-visa:before {
   content: "\f1f0";
 }
@@ -1674,6 +1863,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-area-chart:before {
   content: "\f1fe";
+}
+.fa-free-f1ff:before {
+  content: "\f1ff";
 }
 .fa-pie-chart:before {
   content: "\f200";
@@ -1723,6 +1915,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-connectdevelop:before {
   content: "\f20e";
 }
+.fa-free-f20f:before {
+  content: "\f20f";
+}
 .fa-dashcube:before {
   content: "\f210";
 }
@@ -1750,7 +1945,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-cart-arrow-down:before {
   content: "\f218";
 }
-.fa-gem:before,
 .fa-diamond:before {
   content: "\f219";
 }
@@ -1768,6 +1962,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-heartbeat:before {
   content: "\f21e";
+}
+.fa-free-f21f:before {
+  content: "\f21f";
+}
+.fa-free-f220:before {
+  content: "\f220";
 }
 .fa-venus:before {
   content: "\f221";
@@ -1809,6 +2009,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-genderless:before {
   content: "\f22d";
 }
+.fa-free-f22e:before {
+  content: "\f22e";
+}
+.fa-free-f22f:before {
+  content: "\f22f";
+}
 .fa-facebook-official:before {
   content: "\f230";
 }
@@ -1843,9 +2049,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-medium:before {
   content: "\f23a";
 }
-.fa-medium-square:before {
-  content: "\f2f8";
-}
 .fa-yc:before,
 .fa-y-combinator:before {
   content: "\f23b";
@@ -1858,6 +2061,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-expeditedssl:before {
   content: "\f23e";
+}
+.fa-free-f23f:before {
+  content: "\f23f";
 }
 .fa-battery-4:before,
 .fa-battery:before,
@@ -1910,6 +2116,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-balance-scale:before {
   content: "\f24e";
 }
+.fa-free-f24f:before {
+  content: "\f24f";
+}
 .fa-hourglass-o:before {
   content: "\f250";
 }
@@ -1960,6 +2169,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-creative-commons:before {
   content: "\f25e";
 }
+.fa-free-f25f:before {
+  content: "\f25f";
+}
 .fa-gg:before {
   content: "\f260";
 }
@@ -2005,6 +2217,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-500px:before {
   content: "\f26e";
+}
+.fa-free-f26f:before {
+  content: "\f26f";
 }
 .fa-amazon:before {
   content: "\f270";
@@ -2052,6 +2267,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-black-tie:before {
   content: "\f27e";
 }
+.fa-free-f27f:before {
+  content: "\f27f";
+}
 .fa-fonticons:before {
   content: "\f280";
 }
@@ -2097,6 +2315,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-stop-circle-o:before {
   content: "\f28e";
 }
+.fa-free-f28f:before {
+  content: "\f28f";
+}
 .fa-shopping-bag:before {
   content: "\f290";
 }
@@ -2141,6 +2362,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-audio-description:before {
   content: "\f29e";
+}
+.fa-free-f29f:before {
+  content: "\f29f";
 }
 .fa-phone-volume:before,
 .fa-volume-control-phone:before {
@@ -2188,6 +2412,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-snapchat-square:before {
   content: "\f2ad";
+}
+.fa-pied-piper:before {
+  content: "\f2ae";
+}
+.fa-free-f2af:before {
+  content: "\f2af";
 }
 .fa-first-order:before {
   content: "\f2b0";
@@ -2237,6 +2467,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .fa-user-circle-o:before {
   content: "\f2be";
+}
+.fa-free-f2bf:before {
+  content: "\f2bf";
 }
 .fa-user-o:before {
   content: "\f2c0";
@@ -2293,6 +2526,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-podcast:before {
   content: "\f2ce";
 }
+.fa-free-f2cf:before {
+  content: "\f2cf";
+}
 .fa-window-maximize:before {
   content: "\f2d0";
 }
@@ -2340,10 +2576,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-wpexplorer:before {
   content: "\f2de";
 }
+.fa-free-f2df:before {
+  content: "\f2df";
+}
 .fa-meetup:before {
   content: "\f2e0";
 }
-.fa-mastodon:before {
+.fa-free-f2e1:before {
   content: "\f2e1";
 }
 .fa-mastodon-alt:before {
@@ -2356,13 +2595,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-peertube:before {
   content: "\f2e4";
 }
-.fa-diaspora:before {
+.fa-utensil-spoon:before {
   content: "\f2e5";
 }
-.fa-friendica:before {
+.fa-fork-knife:before {
   content: "\f2e6";
 }
-.fa-gnu-social:before {
+.fa-utensils:before {
   content: "\f2e7";
 }
 .fa-liberapay-square:before {
@@ -2371,8 +2610,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-liberapay:before {
   content: "\f2e9";
 }
-.fa-ssb:before,
-.fa-scuttlebutt:before {
+.fa-rotate-left:before {
   content: "\f2ea";
 }
 .fa-hubzilla:before {
@@ -2381,42 +2619,51 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-social-home:before {
   content: "\f2ec";
 }
-.fa-artstation:before {
+.fa-trash-can:before {
   content: "\f2ed";
 }
-.fa-discord:before {
+.fa-free-f2ee:before {
   content: "\f2ee";
 }
 .fa-discord-alt:before {
   content: "\f2ef";
 }
-.fa-patreon:before {
+.fa-free-f2f0:before {
   content: "\f2f0";
 }
-.fa-snowdrift:before {
+.fa-rotate:before {
   content: "\f2f1";
 }
-.fa-activitypub:before {
+.fa-stopwatch:before {
   content: "\f2f2";
 }
-.fa-ethereum:before {
+.fa-free-f2f3:before {
   content: "\f2f3";
 }
-.fa-keybase:before {
+.fa-free-f2f4:before {
   content: "\f2f4";
 }
-.fa-shaarli:before {
+.fa-right-from-bracket:before {
   content: "\f2f5";
 }
-.fa-shaarli-o:before {
+.fa-right-to-bracket:before {
   content: "\f2f6";
 }
 .fa-cut-key:before,
 .fa-key-modern:before {
   content: "\f2f7";
 }
-.fa-xmpp:before {
+.fa-medium-square:before {
+  content: "\f2f8";
+}
+.fa-rotate-right:before {
   content: "\f2f9";
+}
+.fa-xmpp:before {
+  content: "\f2fa";
+}
+.fa-free-f2fb:before {
+  content: "\f2fb";
 }
 .fa-archive-org:before {
   content: "\f2fc";
@@ -2424,7 +2671,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-freedombox:before {
   content: "\f2fd";
 }
-.fa-facebook-messenger:before {
+.fa-poo:before {
   content: "\f2fe";
 }
 .fa-debian:before {
@@ -2436,17 +2683,17 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-tipeee:before {
   content: "\f301";
 }
-.fa-react:before {
+.fa-images:before {
   content: "\f302";
 }
-.fa-dogmazic:before {
+.fa-pencil-alt:before {
   content: "\f303";
 }
-.fa-zotero:before {
-  content: "\f309";
+.fa-pen:before {
+  content: "\f304";
 }
-.fa-nodejs:before {
-  content: "\f308";
+.fa-pen-clip:before {
+  content: "\f305";
 }
 .fa-nextcloud:before {
   content: "\f306";
@@ -2454,19 +2701,25 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-nextcloud-square:before {
   content: "\f307";
 }
-.fa-hackaday:before {
+.fa-nodejs:before {
+  content: "\f308";
+}
+.fa-down-long:before {
+  content: "\f309";
+}
+.fa-left-long:before {
   content: "\f30a";
 }
-.fa-laravel:before {
+.fa-right-long:before {
   content: "\f30b";
 }
-.fa-signalapp:before {
+.fa-up-long:before {
   content: "\f30c";
 }
 .fa-gnupg:before {
   content: "\f30d";
 }
-.fa-php:before {
+.fa-free-f30e:before {
   content: "\f30e";
 }
 .fa-ffmpeg:before {
@@ -2487,13 +2740,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-pixelfed:before {
   content: "\f314";
 }
-.fa-bootstrap:before {
+.fa-free-f315:before {
   content: "\f315";
 }
-.fa-dev-to:before {
+.fa-att:before {
   content: "\f316";
 }
-.fa-hashnode:before {
+.fa-c:before {
   content: "\f317";
 }
 .fa-jirafeau:before {
@@ -2508,22 +2761,25 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-gimp:before {
   content: "\f31b";
 }
-.fa-c:before {
+.fa-file-pen:before {
   content: "\f31c";
 }
-.fa-digitalocean:before {
+.fa-arrows-maximize:before {
   content: "\f31d";
 }
-.fa-att:before {
+.fa-maximize:before {
   content: "\f31e";
 }
 .fa-gitea:before {
   content: "\f31f";
 }
+.fa-free-f320:before {
+  content: "\f320";
+}
 .fa-file-epub:before {
   content: "\f321";
 }
-.fa-python:before {
+.fa-free-f322:before {
   content: "\f322";
 }
 .fa-archlinux:before {
@@ -2532,16 +2788,17 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-pleroma:before {
   content: "\f324";
 }
-.fa-unsplash:before {
+.fa-free-f325:before {
   content: "\f325";
 }
+.fa-hackerrank:before,
 .fa-hackster:before {
   content: "\f326";
 }
-.fa-spell-check:before {
+.fa-moon:before {
   content: "\f327";
 }
-.fa-moon:before {
+.fa-clipboard:before {
   content: "\f328";
 }
 .fa-sun:before {
@@ -2556,40 +2813,40 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-wire:before {
   content: "\f32c";
 }
+.fa-proftpd:before {
+  content: "\f32d";
+}
 .fa-tor-onion:before {
   content: "\f32e";
 }
-.fa-volume-mute:before {
+.fa-classicpress-circle:before {
   content: "\f32f";
-}
-.fa-bell-ringing:before {
-  content: "\f32d";
 }
 .fa-bell-ringing-o:before {
   content: "\f330";
 }
+.fa-classicpress:before {
+  content: "\f331";
+}
+.fa-camera-alt:before {
+  content: "\f332";
+}
 .fa-hal:before {
   content: "\f333";
-}
-.fa-jupyter:before {
-  content: "\f335";
 }
 .fa-julia:before {
   content: "\f334";
 }
-.fa-classicpress:before {
-  content: "\f331";
-}
-.fa-classicpress-circle:before {
-  content: "\f332";
+.fa-jupyter:before {
+  content: "\f335";
 }
 .fa-open-collective:before {
   content: "\f336";
 }
-.fa-orcid:before {
+.fa-arrows-alt-h:before {
   content: "\f337";
 }
-.fa-researchgate:before {
+.fa-arrows-alt-v:before {
   content: "\f338";
 }
 .fa-funkwhale:before {
@@ -2604,9 +2861,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-boardgamegeek:before {
   content: "\f33c";
 }
-.fa-bunny:before {
-  content: "\f35f";
-}
 .fa-buymeacoffee:before {
   content: "\f33d";
 }
@@ -2617,14 +2871,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-cc-cc:before {
   content: "\f33f";
 }
+.fa-cc-nc:before {
+  content: "\f340";
+}
 .fa-cc-nc-eu:before {
   content: "\f341";
 }
 .fa-cc-nc-jp:before {
   content: "\f342";
-}
-.fa-cc-nc:before {
-  content: "\f340";
 }
 .fa-cc-nd:before {
   content: "\f343";
@@ -2651,7 +2905,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-csharp:before {
   content: "\f34a";
 }
-.fa-email-bulk:before {
+.fa-hedgedoc:before {
   content: "\f34b";
 }
 .fa-email-bulk-o:before {
@@ -2660,7 +2914,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-gnu:before {
   content: "\f34d";
 }
-.fa-google-play:before {
+.fa-tex:before {
   content: "\f34e";
 }
 .fa-heroku:before {
@@ -2670,13 +2924,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-home-assistant:before {
   content: "\f350";
 }
-.fa-java:before {
+.fa-sketchfab:before {
   content: "\f351";
 }
 .fa-mariadb:before {
   content: "\f352";
 }
-.fa-markdown:before {
+.fa-sass-alt:before {
   content: "\f353";
 }
 .fa-mysql:before {
@@ -2691,37 +2945,41 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-postgresql:before {
   content: "\f357";
 }
-.fa-sass-alt:before {
-  content: "\f359";
-}
-.fa-sass:before {
+.fa-circle-down:before {
   content: "\f358";
 }
-.fa-skate:before {
+.fa-circle-left:before {
+  content: "\f359";
+}
+.fa-circle-right:before {
   content: "\f35a";
 }
-.fa-sketchfab:before {
+.fa-circle-up:before {
   content: "\f35b";
 }
-.fa-tex:before {
+.fa-square-font-awesome-stroke:before,
+.fa-font-awesome-alt:before {
   content: "\f35c";
 }
-.fa-textpattern:before {
+.fa-external-link-alt:before {
   content: "\f35d";
 }
-.fa-unity:before {
+.fa-textpattern:before {
   content: "\f35e";
 }
-.fa-hedgedoc:before {
+.fa-bunny:before {
+  content: "\f35f";
+}
+.fa-square-up-right:before {
   content: "\f360";
 }
 .fa-fediverse:before {
   content: "\f361";
 }
-.fa-proftpd:before {
+.fa-right-left:before {
   content: "\f362";
 }
-.fa-osi:before {
+.fa-repeat-alt:before {
   content: "\f363";
 }
 .fa-eyeem:before {
@@ -2733,52 +2991,368 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fa-codeberg:before {
   content: "\f366";
 }
-.fa-discourse:before {
+.fa-free-f367:before {
   content: "\f367";
 }
-.fa-mumble:before {
+.fa-accessible-icon:before {
   content: "\f368";
 }
-.fa-freedesktop:before {
+.fa-accusoft:before {
   content: "\f369";
 }
-.fa-javascript:before {
-  content: "\f370";
-}
-.fa-lemmy:before {
-  content: "\f371";
-}
-.fa-ipfs:before {
-  content: "\f372";
-}
-.fa-canonical:before {
+.fa-adversal:before {
   content: "\f36a";
 }
-.fa-ubuntu:before {
+.fa-affiliatetheme:before {
   content: "\f36b";
 }
-.fa-strava:before {
+.fa-algolia:before {
   content: "\f36c";
 }
-.fa-note-mu:before,
-.fa-note-jp:before,
-.fa-note-com:before {
+.fa-amilia:before {
   content: "\f36d";
 }
-.fa-sourcehut:before {
+.fa-angrycreative:before {
   content: "\f36e";
 }
-.fa-qiita:before {
+.fa-app-store:before {
   content: "\f36f";
 }
-.fa-are-na:before {
+.fa-app-store-ios:before {
   content: "\f370";
 }
-.fa-blogger:before {
+.fa-apper:before {
   content: "\f371";
 }
-.fa-docker:before {
+.fa-asymmetrik:before {
   content: "\f372";
+}
+.fa-audible:before {
+  content: "\f373";
+}
+.fa-avianex:before {
+  content: "\f374";
+}
+.fa-aws:before {
+  content: "\f375";
+}
+.fa-free-f376:before {
+  content: "\f376";
+}
+.fa-free-f377:before {
+  content: "\f377";
+}
+.fa-bimobject:before {
+  content: "\f378";
+}
+.fa-bitcoin:before {
+  content: "\f379";
+}
+.fa-bity:before {
+  content: "\f37a";
+}
+.fa-blackberry:before {
+  content: "\f37b";
+}
+.fa-blogger:before {
+  content: "\f37c";
+}
+.fa-blogger-b:before,
+.fa-blogger-alt:before {
+  content: "\f37d";
+}
+.fa-activitypub:before {
+  content: "\f37e";
+}
+.fa-buromobelexperte:before {
+  content: "\f37f";
+}
+.fa-centrecode:before,
+.fa-centercode:before {
+  content: "\f380";
+}
+.fa-cloud-download-alt:before {
+  content: "\f381";
+}
+.fa-cloud-upload-alt:before {
+  content: "\f382";
+}
+.fa-cloudscale:before {
+  content: "\f383";
+}
+.fa-cloudsmith:before {
+  content: "\f384";
+}
+.fa-cloudversify:before {
+  content: "\f385";
+}
+.fa-code-commit:before {
+  content: "\f386";
+}
+.fa-code-merge:before {
+  content: "\f387";
+}
+.fa-cpanel:before {
+  content: "\f388";
+}
+.fa-free-f389:before {
+  content: "\f389";
+}
+.fa-free-f38a:before {
+  content: "\f38a";
+}
+.fa-css3-alt:before {
+  content: "\f38b";
+}
+.fa-cuttlefish:before {
+  content: "\f38c";
+}
+.fa-d-and-d:before {
+  content: "\f38d";
+}
+.fa-deploydog:before {
+  content: "\f38e";
+}
+.fa-deskpro:before {
+  content: "\f38f";
+}
+.fa-desktop-alt:before {
+  content: "\f390";
+}
+.fa-digitalocean:before {
+  content: "\f391";
+}
+.fa-discord:before {
+  content: "\f392";
+}
+.fa-discourse:before {
+  content: "\f393";
+}
+.fa-dochub:before {
+  content: "\f394";
+}
+.fa-docker:before {
+  content: "\f395";
+}
+.fa-draft2digital:before {
+  content: "\f396";
+}
+.fa-dribbble-square:before,
+.fa-square-dribbble:before {
+  content: "\f397";
+}
+.fa-free-f398:before {
+  content: "\f398";
+}
+.fa-dyalog:before {
+  content: "\f399";
+}
+.fa-earlybirds:before {
+  content: "\f39a";
+}
+.fa-free-f39b:before {
+  content: "\f39b";
+}
+.fa-free-f39c:before {
+  content: "\f39c";
+}
+.fa-erlang:before {
+  content: "\f39d";
+}
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+.fa-facebook-messenger:before {
+  content: "\f39f";
+}
+.fa-free-f3a0:before {
+  content: "\f3a0";
+}
+.fa-firstdraft:before {
+  content: "\f3a1";
+}
+.fa-fonticons-fi:before {
+  content: "\f3a2";
+}
+.fa-fort-awesome-alt:before {
+  content: "\f3a3";
+}
+.fa-freebsd:before {
+  content: "\f3a4";
+}
+.fa-gem:before {
+  content: "\f3a5";
+}
+.fa-gitkraken:before {
+  content: "\f3a6";
+}
+.fa-gofore:before {
+  content: "\f3a7";
+}
+.fa-goodreads:before {
+  content: "\f3a8";
+}
+.fa-goodreads-g:before {
+  content: "\f3a9";
+}
+.fa-google-drive:before {
+  content: "\f3aa";
+}
+.fa-google-play:before {
+  content: "\f3ab";
+}
+.fa-gripfire:before {
+  content: "\f3ac";
+}
+.fa-grunt:before {
+  content: "\f3ad";
+}
+.fa-gulp:before {
+  content: "\f3ae";
+}
+.fa-square-hacker-news:before {
+  content: "\f3af";
+}
+.fa-hire-a-helper:before {
+  content: "\f3b0";
+}
+.fa-hotjar:before {
+  content: "\f3b1";
+}
+.fa-hubspot:before {
+  content: "\f3b2";
+}
+.fa-free-f3b3:before {
+  content: "\f3b3";
+}
+.fa-itunes:before {
+  content: "\f3b4";
+}
+.fa-itunes-note:before {
+  content: "\f3b5";
+}
+.fa-jenkins:before {
+  content: "\f3b6";
+}
+.fa-joget:before {
+  content: "\f3b7";
+}
+.fa-js:before,
+.fa-javascript:before {
+  content: "\f3b8";
+}
+.fa-square-js:before,
+.fa-javascript-squared:before {
+  content: "\f3b9";
+}
+.fa-key-cdn:before {
+  content: "\f3ba";
+}
+.fa-kickstarter:before {
+  content: "\f3bb";
+}
+.fa-kickstarter-k:before {
+  content: "\f3bc";
+}
+.fa-laravel:before {
+  content: "\f3bd";
+}
+.fa-turn-down:before {
+  content: "\f3be";
+}
+.fa-turn-up:before {
+  content: "\f3bf";
+}
+.fa-patreon:before {
+  content: "\f3d9";
+}
+.fa-python:before {
+  content: "\f3e2";
+}
+.fa-osi:before {
+  content: "\f41a";
+}
+.fa-react:before {
+  content: "\f41b";
+}
+.fa-autoprefixer:before {
+  content: "\f41c";
+}
+.fa-less:before {
+  content: "\f41d";
+}
+.fa-sass:before {
+  content: "\f41e";
+}
+.fa-strava:before {
+  content: "\f428";
+}
+.fa-ethereum:before {
+  content: "\f42e";
+}
+.fa-php:before {
+  content: "\f457";
+}
+.fa-java:before {
+  content: "\f4e4";
+}
+.fa-keybase:before {
+  content: "\f4f5";
+}
+.fa-mastodon:before {
+  content: "\f4f6";
+}
+.fa-r-project:before {
+  content: "\f4f7";
+}
+.fa-researchgate:before {
+  content: "\f4f8";
+}
+.fa-globe-amaericas:before,
+.fa-globe-w:before {
+  content: "\f57d";
+}
+.fa-markdown:before {
+  content: "\f60f";
+}
+.fa-email-bulk:before {
+  content: "\f674";
+}
+.fa-volume-mute:before {
+  content: "\f6a9";
+}
+.fa-dev:before,
+.fa-dev-to:before {
+  content: "\f6cc";
+}
+.fa-artstation:before {
+  content: "\f77a";
+}
+.fa-diaspora:before {
+  content: "\f791";
+}
+.fa-globe-europe:before,
+.fa-globe-e:before {
+  content: "\f7a2";
+}
+.fa-skate:before {
+  content: "\f7c5";
+}
+.fa-ubuntu:before {
+  content: "\f7df";
+}
+.fa-bootstrap:before {
+  content: "\f836";
+}
+.fa-spell-check:before {
+  content: "\f891";
+}
+.fa-orcid:before {
+  content: "\f8d2";
+}
+.fa-bell-on:before,
+.fa-bell-ringing:before {
+  content: "\f8fa";
 }
 .sr-only {
   position: absolute;

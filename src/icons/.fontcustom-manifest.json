@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "754a0f2a306fbe92f860a3aa913619e9da134e9b79ec69759e5a401676e5b405",
-    "current": "754a0f2a306fbe92f860a3aa913619e9da134e9b79ec69759e5a401676e5b405"
+    "previous": "63b1fdf85b63960505fbd1c76fb65bd6ace200e490daba0f6e802a4d0772677a",
+    "current": "63b1fdf85b63960505fbd1c76fb65bd6ace200e490daba0f6e802a4d0772677a"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -12,3275 +12,4887 @@
   ],
   "glyphs": {
     "500px": {
-      "codepoint": 61696,
+      "codepoint": 62062,
       "source": "svg/500px.svg"
     },
+    "accessible-icon": {
+      "codepoint": 62312,
+      "source": "svg/wheelchair-alt.svg"
+    },
+    "accusoft": {
+      "codepoint": 62313,
+      "source": "svg/placeholder.svg"
+    },
     "activitypub": {
-      "codepoint": 61697,
+      "codepoint": 62334,
       "source": "svg/activitypub.svg"
     },
     "address-book": {
-      "codepoint": 61698,
+      "codepoint": 62137,
       "source": "svg/address-book.svg"
     },
     "address-book-o": {
-      "codepoint": 61699,
+      "codepoint": 62138,
       "source": "svg/address-book-o.svg"
     },
     "address-card": {
-      "codepoint": 61700,
+      "codepoint": 62139,
       "source": "svg/address-card.svg"
     },
     "address-card-o": {
-      "codepoint": 61701,
+      "codepoint": 62140,
       "source": "svg/address-card-o.svg"
     },
     "adjust": {
-      "codepoint": 61702,
+      "codepoint": 61506,
       "source": "svg/adjust.svg"
     },
     "adn": {
-      "codepoint": 61703,
+      "codepoint": 61808,
       "source": "svg/adn.svg"
     },
+    "adversal": {
+      "codepoint": 62314,
+      "source": "svg/placeholder.svg"
+    },
+    "affiliatetheme": {
+      "codepoint": 62315,
+      "source": "svg/placeholder.svg"
+    },
+    "algolia": {
+      "codepoint": 62316,
+      "source": "svg/placeholder.svg"
+    },
     "align-center": {
-      "codepoint": 61704,
+      "codepoint": 61495,
       "source": "svg/align-center.svg"
     },
     "align-justify": {
-      "codepoint": 61705,
+      "codepoint": 61497,
       "source": "svg/align-justify.svg"
     },
     "align-left": {
-      "codepoint": 61706,
+      "codepoint": 61494,
       "source": "svg/align-left.svg"
     },
     "align-right": {
-      "codepoint": 61707,
+      "codepoint": 61496,
       "source": "svg/align-right.svg"
     },
     "amazon": {
-      "codepoint": 61708,
+      "codepoint": 62064,
       "source": "svg/amazon.svg"
     },
     "ambulance": {
-      "codepoint": 61709,
+      "codepoint": 61689,
       "source": "svg/ambulance.svg"
     },
     "american-sign-language-interpreting": {
-      "codepoint": 61710,
+      "codepoint": 62115,
       "source": "svg/american-sign-language-interpreting.svg"
     },
+    "amilia": {
+      "codepoint": 62317,
+      "source": "svg/placeholder.svg"
+    },
     "anchor": {
-      "codepoint": 61711,
+      "codepoint": 61757,
       "source": "svg/anchor.svg"
     },
     "android": {
-      "codepoint": 61712,
+      "codepoint": 61819,
       "source": "svg/android.svg"
     },
     "angellist": {
-      "codepoint": 61713,
+      "codepoint": 61961,
       "source": "svg/angellist.svg"
     },
     "angle-double-down": {
-      "codepoint": 61714,
+      "codepoint": 61699,
       "source": "svg/angle-double-down.svg"
     },
     "angle-double-left": {
-      "codepoint": 61715,
+      "codepoint": 61696,
       "source": "svg/angle-double-left.svg"
     },
     "angle-double-right": {
-      "codepoint": 61716,
+      "codepoint": 61697,
       "source": "svg/angle-double-right.svg"
     },
     "angle-double-up": {
-      "codepoint": 61717,
+      "codepoint": 61698,
       "source": "svg/angle-double-up.svg"
     },
     "angle-down": {
-      "codepoint": 61718,
+      "codepoint": 61703,
       "source": "svg/angle-down.svg"
     },
     "angle-left": {
-      "codepoint": 61719,
+      "codepoint": 61700,
       "source": "svg/angle-left.svg"
     },
     "angle-right": {
-      "codepoint": 61720,
+      "codepoint": 61701,
       "source": "svg/angle-right.svg"
     },
     "angle-up": {
-      "codepoint": 61721,
+      "codepoint": 61702,
       "source": "svg/angle-up.svg"
     },
+    "angrycreative": {
+      "codepoint": 62318,
+      "source": "svg/placeholder.svg"
+    },
+    "app-store": {
+      "codepoint": 62319,
+      "source": "svg/placeholder.svg"
+    },
+    "app-store-ios": {
+      "codepoint": 62320,
+      "source": "svg/placeholder.svg"
+    },
+    "apper": {
+      "codepoint": 62321,
+      "source": "svg/placeholder.svg"
+    },
     "apple": {
-      "codepoint": 61722,
+      "codepoint": 61817,
       "source": "svg/apple.svg"
     },
     "archive": {
-      "codepoint": 61723,
+      "codepoint": 61831,
       "source": "svg/archive.svg"
     },
     "archive-org": {
-      "codepoint": 61724,
+      "codepoint": 62204,
       "source": "svg/archive-org.svg"
     },
     "archlinux": {
-      "codepoint": 61725,
+      "codepoint": 62243,
       "source": "svg/archlinux.svg"
     },
     "are-na": {
-      "codepoint": 61726,
+      "codepoint": 61599,
       "source": "svg/are-na.svg"
     },
     "area-chart": {
-      "codepoint": 61727,
+      "codepoint": 61950,
       "source": "svg/area-chart.svg"
     },
     "arrow-circle-down": {
-      "codepoint": 61728,
+      "codepoint": 61611,
       "source": "svg/arrow-circle-down.svg"
     },
     "arrow-circle-left": {
-      "codepoint": 61729,
+      "codepoint": 61608,
       "source": "svg/arrow-circle-left.svg"
     },
     "arrow-circle-o-down": {
-      "codepoint": 61730,
+      "codepoint": 61466,
       "source": "svg/arrow-circle-o-down.svg"
     },
     "arrow-circle-o-left": {
-      "codepoint": 61731,
+      "codepoint": 61840,
       "source": "svg/arrow-circle-o-left.svg"
     },
     "arrow-circle-o-right": {
-      "codepoint": 61732,
+      "codepoint": 61838,
       "source": "svg/arrow-circle-o-right.svg"
     },
     "arrow-circle-o-up": {
-      "codepoint": 61733,
+      "codepoint": 61467,
       "source": "svg/arrow-circle-o-up.svg"
     },
     "arrow-circle-right": {
-      "codepoint": 61734,
+      "codepoint": 61609,
       "source": "svg/arrow-circle-right.svg"
     },
     "arrow-circle-up": {
-      "codepoint": 61735,
+      "codepoint": 61610,
       "source": "svg/arrow-circle-up.svg"
     },
     "arrow-down": {
-      "codepoint": 61736,
+      "codepoint": 61539,
       "source": "svg/arrow-down.svg"
     },
     "arrow-left": {
-      "codepoint": 61737,
+      "codepoint": 61536,
       "source": "svg/arrow-left.svg"
     },
     "arrow-right": {
-      "codepoint": 61738,
+      "codepoint": 61537,
       "source": "svg/arrow-right.svg"
     },
     "arrow-up": {
-      "codepoint": 61739,
+      "codepoint": 61538,
       "source": "svg/arrow-up.svg"
     },
     "arrows": {
-      "codepoint": 61740,
+      "codepoint": 61511,
       "source": "svg/arrows.svg"
     },
     "arrows-alt": {
-      "codepoint": 61741,
+      "codepoint": 61618,
       "source": "svg/arrows-alt.svg"
     },
-    "arrows-h": {
-      "codepoint": 61742,
+    "arrows-alt-h": {
+      "codepoint": 62263,
       "source": "svg/arrows-h.svg"
     },
+    "arrows-alt-v": {
+      "codepoint": 62264,
+      "source": "svg/arrows-v.svg"
+    },
+    "arrows-h": {
+      "codepoint": 61566,
+      "source": "svg/arrows-h.svg"
+    },
+    "arrows-maximize": {
+      "codepoint": 62237,
+      "source": "svg/arrows-alt.svg"
+    },
     "arrows-v": {
-      "codepoint": 61743,
+      "codepoint": 61565,
       "source": "svg/arrows-v.svg"
     },
     "artstation": {
-      "codepoint": 61744,
+      "codepoint": 63354,
       "source": "svg/artstation.svg"
     },
     "askfm": {
-      "codepoint": 61745,
+      "codepoint": 62266,
       "source": "svg/askfm.svg"
     },
     "assistive-listening-systems": {
-      "codepoint": 61746,
+      "codepoint": 62114,
       "source": "svg/assistive-listening-systems.svg"
     },
     "asterisk": {
-      "codepoint": 61747,
+      "codepoint": 61545,
       "source": "svg/asterisk.svg"
     },
+    "asterisk-ascii": {
+      "codepoint": 42,
+      "source": "svg/asterisk.svg"
+    },
+    "asymmetrik": {
+      "codepoint": 62322,
+      "source": "svg/placeholder.svg"
+    },
     "at": {
-      "codepoint": 61748,
+      "codepoint": 61946,
       "source": "svg/at.svg"
     },
     "att": {
-      "codepoint": 61749,
+      "codepoint": 62230,
       "source": "svg/att.svg"
     },
+    "audible": {
+      "codepoint": 62323,
+      "source": "svg/placeholder.svg"
+    },
     "audio-description": {
-      "codepoint": 61750,
+      "codepoint": 62110,
       "source": "svg/audio-description.svg"
     },
+    "autoprefixer": {
+      "codepoint": 62492,
+      "source": "svg/placeholder.svg"
+    },
+    "avianex": {
+      "codepoint": 62324,
+      "source": "svg/placeholder.svg"
+    },
+    "aws": {
+      "codepoint": 62325,
+      "source": "svg/placeholder.svg"
+    },
     "backward": {
-      "codepoint": 61751,
+      "codepoint": 61514,
       "source": "svg/backward.svg"
     },
     "balance-scale": {
-      "codepoint": 61752,
+      "codepoint": 62030,
       "source": "svg/balance-scale.svg"
     },
     "ban": {
-      "codepoint": 61753,
+      "codepoint": 61534,
       "source": "svg/ban.svg"
     },
     "bandcamp": {
-      "codepoint": 61754,
+      "codepoint": 62165,
       "source": "svg/bandcamp.svg"
     },
     "bar-chart": {
-      "codepoint": 61755,
+      "codepoint": 61568,
       "source": "svg/bar-chart.svg"
     },
     "barcode": {
-      "codepoint": 61756,
+      "codepoint": 61482,
       "source": "svg/barcode.svg"
     },
     "bars": {
-      "codepoint": 61757,
+      "codepoint": 61641,
       "source": "svg/bars.svg"
     },
     "bath": {
-      "codepoint": 61758,
+      "codepoint": 62157,
       "source": "svg/bath.svg"
     },
     "battery-empty": {
-      "codepoint": 61759,
+      "codepoint": 62020,
       "source": "svg/battery-empty.svg"
     },
     "battery-full": {
-      "codepoint": 61760,
+      "codepoint": 62016,
       "source": "svg/battery-full.svg"
     },
     "battery-half": {
-      "codepoint": 61761,
+      "codepoint": 62018,
       "source": "svg/battery-half.svg"
     },
     "battery-quarter": {
-      "codepoint": 61762,
+      "codepoint": 62019,
       "source": "svg/battery-quarter.svg"
     },
     "battery-three-quarters": {
-      "codepoint": 61763,
+      "codepoint": 62017,
       "source": "svg/battery-three-quarters.svg"
     },
     "bed": {
-      "codepoint": 61764,
+      "codepoint": 62006,
       "source": "svg/bed.svg"
     },
     "beer": {
-      "codepoint": 61765,
+      "codepoint": 61692,
       "source": "svg/beer.svg"
     },
     "behance": {
-      "codepoint": 61766,
+      "codepoint": 61876,
       "source": "svg/behance.svg"
     },
     "behance-square": {
-      "codepoint": 61767,
+      "codepoint": 61877,
       "source": "svg/behance-square.svg"
     },
     "bell": {
-      "codepoint": 61768,
+      "codepoint": 61602,
       "source": "svg/bell.svg"
     },
     "bell-o": {
-      "codepoint": 61769,
+      "codepoint": 61683,
       "source": "svg/bell-o.svg"
     },
     "bell-ringing": {
-      "codepoint": 61770,
+      "codepoint": 63738,
       "source": "svg/bell-ringing.svg"
     },
     "bell-ringing-o": {
-      "codepoint": 61771,
+      "codepoint": 62256,
       "source": "svg/bell-ringing-o.svg"
     },
     "bell-slash": {
-      "codepoint": 61772,
+      "codepoint": 61942,
       "source": "svg/bell-slash.svg"
     },
     "bell-slash-o": {
-      "codepoint": 61773,
+      "codepoint": 61943,
       "source": "svg/bell-slash-o.svg"
     },
     "bicycle": {
-      "codepoint": 61774,
+      "codepoint": 61958,
       "source": "svg/bicycle.svg"
     },
+    "bimobject": {
+      "codepoint": 62328,
+      "source": "svg/placeholder.svg"
+    },
     "binoculars": {
-      "codepoint": 61775,
+      "codepoint": 61925,
       "source": "svg/binoculars.svg"
     },
     "biometric": {
-      "codepoint": 61776,
+      "codepoint": 62251,
       "source": "svg/biometric.svg"
     },
     "birthday-cake": {
-      "codepoint": 61777,
+      "codepoint": 61949,
       "source": "svg/birthday-cake.svg"
     },
     "bitbucket": {
-      "codepoint": 61778,
+      "codepoint": 61809,
       "source": "svg/bitbucket.svg"
     },
     "bitbucket-square": {
-      "codepoint": 61779,
+      "codepoint": 61810,
       "source": "svg/bitbucket-square.svg"
     },
+    "bitcoin": {
+      "codepoint": 62329,
+      "source": "svg/btc.svg"
+    },
+    "bitcoin-sign": {
+      "codepoint": 8383,
+      "source": "svg/btc.svg"
+    },
+    "bity": {
+      "codepoint": 62330,
+      "source": "svg/placeholder.svg"
+    },
     "black-tie": {
-      "codepoint": 61780,
+      "codepoint": 62078,
       "source": "svg/black-tie.svg"
     },
+    "blackberry": {
+      "codepoint": 62331,
+      "source": "svg/placeholder.svg"
+    },
     "blind": {
-      "codepoint": 61781,
+      "codepoint": 62109,
       "source": "svg/blind.svg"
     },
     "blockstack": {
-      "codepoint": 61782,
+      "codepoint": 62267,
       "source": "svg/blockstack.svg"
     },
     "blogger": {
-      "codepoint": 61783,
+      "codepoint": 62332,
       "source": "svg/blogger.svg"
     },
+    "blogger-alt": {
+      "codepoint": 62333,
+      "source": "svg/placeholder.svg"
+    },
     "bluetooth": {
-      "codepoint": 61784,
+      "codepoint": 62099,
       "source": "svg/bluetooth.svg"
     },
     "bluetooth-b": {
-      "codepoint": 61785,
+      "codepoint": 62100,
       "source": "svg/bluetooth-b.svg"
     },
     "boardgamegeek": {
-      "codepoint": 61786,
+      "codepoint": 62268,
       "source": "svg/boardgamegeek.svg"
     },
     "bold": {
-      "codepoint": 61787,
+      "codepoint": 61490,
       "source": "svg/bold.svg"
     },
     "bolt": {
-      "codepoint": 61788,
+      "codepoint": 61671,
       "source": "svg/bolt.svg"
     },
     "bomb": {
-      "codepoint": 61789,
+      "codepoint": 61922,
       "source": "svg/bomb.svg"
     },
     "book": {
-      "codepoint": 61790,
+      "codepoint": 61485,
       "source": "svg/book.svg"
     },
     "bookmark": {
-      "codepoint": 61791,
+      "codepoint": 61486,
       "source": "svg/bookmark.svg"
     },
     "bookmark-o": {
-      "codepoint": 61792,
+      "codepoint": 61591,
       "source": "svg/bookmark-o.svg"
     },
     "bootstrap": {
-      "codepoint": 61793,
+      "codepoint": 63542,
       "source": "svg/bootstrap.svg"
     },
     "braille": {
-      "codepoint": 61794,
+      "codepoint": 62113,
       "source": "svg/braille.svg"
     },
     "briefcase": {
-      "codepoint": 61795,
+      "codepoint": 61617,
       "source": "svg/briefcase.svg"
     },
     "btc": {
-      "codepoint": 61796,
+      "codepoint": 61786,
       "source": "svg/btc.svg"
     },
     "bug": {
-      "codepoint": 61797,
+      "codepoint": 61832,
       "source": "svg/bug.svg"
     },
     "building": {
-      "codepoint": 61798,
+      "codepoint": 61869,
       "source": "svg/building.svg"
     },
     "building-o": {
-      "codepoint": 61799,
+      "codepoint": 61687,
       "source": "svg/building-o.svg"
     },
     "bullhorn": {
-      "codepoint": 61800,
+      "codepoint": 61601,
       "source": "svg/bullhorn.svg"
     },
     "bullseye": {
-      "codepoint": 61801,
+      "codepoint": 61760,
       "source": "svg/bullseye.svg"
     },
     "bunny": {
-      "codepoint": 61802,
+      "codepoint": 62303,
       "source": "svg/bunny.svg"
     },
+    "buromobelexperte": {
+      "codepoint": 62335,
+      "source": "svg/placeholder.svg"
+    },
     "bus": {
-      "codepoint": 61803,
+      "codepoint": 61959,
       "source": "svg/bus.svg"
     },
     "buymeacoffee": {
-      "codepoint": 61804,
+      "codepoint": 62269,
       "source": "svg/buymeacoffee.svg"
     },
     "buysellads": {
-      "codepoint": 61805,
+      "codepoint": 61965,
       "source": "svg/buysellads.svg"
     },
     "c": {
-      "codepoint": 61806,
+      "codepoint": 62231,
       "source": "svg/c.svg"
     },
     "calculator": {
-      "codepoint": 61807,
+      "codepoint": 61932,
       "source": "svg/calculator.svg"
     },
     "calendar": {
-      "codepoint": 61808,
+      "codepoint": 61555,
       "source": "svg/calendar.svg"
     },
     "calendar-check-o": {
-      "codepoint": 61809,
+      "codepoint": 62068,
       "source": "svg/calendar-check-o.svg"
     },
     "calendar-minus-o": {
-      "codepoint": 61810,
+      "codepoint": 62066,
       "source": "svg/calendar-minus-o.svg"
     },
     "calendar-o": {
-      "codepoint": 61811,
+      "codepoint": 61747,
       "source": "svg/calendar-o.svg"
     },
     "calendar-plus-o": {
-      "codepoint": 61812,
+      "codepoint": 62065,
       "source": "svg/calendar-plus-o.svg"
     },
     "calendar-times-o": {
-      "codepoint": 61813,
+      "codepoint": 62067,
       "source": "svg/calendar-times-o.svg"
     },
     "camera": {
-      "codepoint": 61814,
+      "codepoint": 61488,
+      "source": "svg/camera.svg"
+    },
+    "camera-alt": {
+      "codepoint": 62258,
       "source": "svg/camera.svg"
     },
     "camera-retro": {
-      "codepoint": 61815,
+      "codepoint": 61571,
       "source": "svg/camera-retro.svg"
     },
     "canonical": {
-      "codepoint": 61816,
+      "codepoint": 61583,
       "source": "svg/canonical.svg"
     },
     "car": {
-      "codepoint": 61817,
+      "codepoint": 61881,
       "source": "svg/car.svg"
     },
     "caret-down": {
-      "codepoint": 61818,
+      "codepoint": 61655,
       "source": "svg/caret-down.svg"
     },
     "caret-left": {
-      "codepoint": 61819,
+      "codepoint": 61657,
       "source": "svg/caret-left.svg"
     },
     "caret-right": {
-      "codepoint": 61820,
+      "codepoint": 61658,
       "source": "svg/caret-right.svg"
     },
     "caret-square-o-down": {
-      "codepoint": 61821,
+      "codepoint": 61776,
       "source": "svg/caret-square-o-down.svg"
     },
     "caret-square-o-left": {
-      "codepoint": 61822,
+      "codepoint": 61841,
       "source": "svg/caret-square-o-left.svg"
     },
     "caret-square-o-right": {
-      "codepoint": 61823,
+      "codepoint": 61778,
       "source": "svg/caret-square-o-right.svg"
     },
     "caret-square-o-up": {
-      "codepoint": 61824,
+      "codepoint": 61777,
       "source": "svg/caret-square-o-up.svg"
     },
     "caret-up": {
-      "codepoint": 61825,
+      "codepoint": 61656,
       "source": "svg/caret-up.svg"
     },
     "cart-arrow-down": {
-      "codepoint": 61826,
+      "codepoint": 61976,
       "source": "svg/cart-arrow-down.svg"
     },
     "cart-plus": {
-      "codepoint": 61827,
+      "codepoint": 61975,
       "source": "svg/cart-plus.svg"
     },
     "cc": {
-      "codepoint": 61828,
+      "codepoint": 61962,
       "source": "svg/cc.svg"
     },
     "cc-amex": {
-      "codepoint": 61829,
+      "codepoint": 61939,
       "source": "svg/cc-amex.svg"
     },
     "cc-by": {
-      "codepoint": 61830,
+      "codepoint": 62270,
       "source": "svg/cc-by.svg"
     },
     "cc-cc": {
-      "codepoint": 61831,
+      "codepoint": 62271,
       "source": "svg/cc-cc.svg"
     },
     "cc-diners-club": {
-      "codepoint": 61832,
+      "codepoint": 62028,
       "source": "svg/cc-diners-club.svg"
     },
     "cc-discover": {
-      "codepoint": 61833,
+      "codepoint": 61938,
       "source": "svg/cc-discover.svg"
     },
     "cc-jcb": {
-      "codepoint": 61834,
+      "codepoint": 62027,
       "source": "svg/cc-jcb.svg"
     },
     "cc-mastercard": {
-      "codepoint": 61835,
+      "codepoint": 61937,
       "source": "svg/cc-mastercard.svg"
     },
     "cc-nc": {
-      "codepoint": 61836,
+      "codepoint": 62272,
       "source": "svg/cc-nc.svg"
     },
     "cc-nc-eu": {
-      "codepoint": 61837,
+      "codepoint": 62273,
       "source": "svg/cc-nc-eu.svg"
     },
     "cc-nc-jp": {
-      "codepoint": 61838,
+      "codepoint": 62274,
       "source": "svg/cc-nc-jp.svg"
     },
     "cc-nd": {
-      "codepoint": 61839,
+      "codepoint": 62275,
       "source": "svg/cc-nd.svg"
     },
     "cc-paypal": {
-      "codepoint": 61840,
+      "codepoint": 61940,
       "source": "svg/cc-paypal.svg"
     },
     "cc-pd": {
-      "codepoint": 61841,
+      "codepoint": 62276,
       "source": "svg/cc-pd.svg"
     },
     "cc-remix": {
-      "codepoint": 61842,
+      "codepoint": 62277,
       "source": "svg/cc-remix.svg"
     },
     "cc-sa": {
-      "codepoint": 61843,
+      "codepoint": 62278,
       "source": "svg/cc-sa.svg"
     },
     "cc-share": {
-      "codepoint": 61844,
+      "codepoint": 62279,
       "source": "svg/cc-share.svg"
     },
     "cc-stripe": {
-      "codepoint": 61845,
+      "codepoint": 61941,
       "source": "svg/cc-stripe.svg"
     },
     "cc-visa": {
-      "codepoint": 61846,
+      "codepoint": 61936,
       "source": "svg/cc-visa.svg"
     },
     "cc-zero": {
-      "codepoint": 61847,
+      "codepoint": 62280,
       "source": "svg/cc-zero.svg"
     },
+    "centercode": {
+      "codepoint": 62336,
+      "source": "svg/placeholder.svg"
+    },
     "certificate": {
-      "codepoint": 61848,
+      "codepoint": 61603,
       "source": "svg/certificate.svg"
     },
     "chain-broken": {
-      "codepoint": 61849,
+      "codepoint": 61735,
       "source": "svg/chain-broken.svg"
     },
     "check": {
-      "codepoint": 61850,
+      "codepoint": 61452,
       "source": "svg/check.svg"
     },
     "check-circle": {
-      "codepoint": 61851,
+      "codepoint": 61528,
       "source": "svg/check-circle.svg"
     },
     "check-circle-o": {
-      "codepoint": 61852,
+      "codepoint": 61533,
       "source": "svg/check-circle-o.svg"
     },
     "check-square": {
-      "codepoint": 61853,
+      "codepoint": 61770,
       "source": "svg/check-square.svg"
     },
     "check-square-o": {
-      "codepoint": 61854,
+      "codepoint": 61510,
       "source": "svg/check-square-o.svg"
     },
     "chevron-circle-down": {
-      "codepoint": 61855,
+      "codepoint": 61754,
       "source": "svg/chevron-circle-down.svg"
     },
     "chevron-circle-left": {
-      "codepoint": 61856,
+      "codepoint": 61751,
       "source": "svg/chevron-circle-left.svg"
     },
     "chevron-circle-right": {
-      "codepoint": 61857,
+      "codepoint": 61752,
       "source": "svg/chevron-circle-right.svg"
     },
     "chevron-circle-up": {
-      "codepoint": 61858,
+      "codepoint": 61753,
       "source": "svg/chevron-circle-up.svg"
     },
     "chevron-down": {
-      "codepoint": 61859,
+      "codepoint": 61560,
       "source": "svg/chevron-down.svg"
     },
     "chevron-left": {
-      "codepoint": 61860,
+      "codepoint": 61523,
       "source": "svg/chevron-left.svg"
     },
     "chevron-right": {
-      "codepoint": 61861,
+      "codepoint": 61524,
       "source": "svg/chevron-right.svg"
     },
     "chevron-up": {
-      "codepoint": 61862,
+      "codepoint": 61559,
       "source": "svg/chevron-up.svg"
     },
     "child": {
-      "codepoint": 61863,
+      "codepoint": 61870,
       "source": "svg/child.svg"
     },
     "chrome": {
-      "codepoint": 61864,
+      "codepoint": 62056,
       "source": "svg/chrome.svg"
     },
     "circle": {
-      "codepoint": 61865,
+      "codepoint": 61713,
       "source": "svg/circle.svg"
     },
+    "circle-down": {
+      "codepoint": 62296,
+      "source": "svg/arrow-circle-o-down.svg"
+    },
+    "circle-left": {
+      "codepoint": 62297,
+      "source": "svg/arrow-circle-o-left.svg"
+    },
     "circle-o": {
-      "codepoint": 61866,
+      "codepoint": 61708,
       "source": "svg/circle-o.svg"
     },
     "circle-o-notch": {
-      "codepoint": 61867,
+      "codepoint": 61902,
       "source": "svg/circle-o-notch.svg"
     },
+    "circle-right": {
+      "codepoint": 62298,
+      "source": "svg/arrow-circle-o-right.svg"
+    },
     "circle-thin": {
-      "codepoint": 61868,
+      "codepoint": 61915,
       "source": "svg/circle-thin.svg"
     },
+    "circle-up": {
+      "codepoint": 62299,
+      "source": "svg/arrow-circle-o-up.svg"
+    },
     "classicpress": {
-      "codepoint": 61869,
+      "codepoint": 62257,
       "source": "svg/classicpress.svg"
     },
     "classicpress-circle": {
-      "codepoint": 61870,
+      "codepoint": 62255,
       "source": "svg/classicpress-circle.svg"
     },
     "clipboard": {
-      "codepoint": 61871,
+      "codepoint": 62248,
       "source": "svg/clipboard.svg"
     },
     "clock-o": {
-      "codepoint": 61872,
+      "codepoint": 61463,
       "source": "svg/clock-o.svg"
     },
     "clone": {
-      "codepoint": 61873,
+      "codepoint": 62029,
       "source": "svg/clone.svg"
     },
     "cloud": {
-      "codepoint": 61874,
+      "codepoint": 61634,
       "source": "svg/cloud.svg"
     },
     "cloud-download": {
-      "codepoint": 61875,
+      "codepoint": 61677,
+      "source": "svg/cloud-download.svg"
+    },
+    "cloud-download-alt": {
+      "codepoint": 62337,
       "source": "svg/cloud-download.svg"
     },
     "cloud-upload": {
-      "codepoint": 61876,
+      "codepoint": 61678,
       "source": "svg/cloud-upload.svg"
     },
+    "cloud-upload-alt": {
+      "codepoint": 62338,
+      "source": "svg/cloud-upload.svg"
+    },
+    "cloudscale": {
+      "codepoint": 62339,
+      "source": "svg/placeholder.svg"
+    },
+    "cloudsmith": {
+      "codepoint": 62340,
+      "source": "svg/placeholder.svg"
+    },
+    "cloudversify": {
+      "codepoint": 62341,
+      "source": "svg/placeholder.svg"
+    },
     "code": {
-      "codepoint": 61877,
+      "codepoint": 61729,
       "source": "svg/code.svg"
     },
+    "code-commit": {
+      "codepoint": 62342,
+      "source": "svg/placeholder.svg"
+    },
     "code-fork": {
-      "codepoint": 61878,
+      "codepoint": 61734,
       "source": "svg/code-fork.svg"
     },
+    "code-merge": {
+      "codepoint": 62343,
+      "source": "svg/placeholder.svg"
+    },
     "codeberg": {
-      "codepoint": 61879,
+      "codepoint": 62310,
       "source": "svg/codeberg.svg"
     },
     "codepen": {
-      "codepoint": 61880,
+      "codepoint": 61899,
       "source": "svg/codepen.svg"
     },
     "codiepie": {
-      "codepoint": 61881,
+      "codepoint": 62084,
       "source": "svg/codiepie.svg"
     },
     "coffee": {
-      "codepoint": 61882,
+      "codepoint": 61684,
       "source": "svg/coffee.svg"
     },
     "cog": {
-      "codepoint": 61883,
+      "codepoint": 61459,
       "source": "svg/cog.svg"
     },
     "cogs": {
-      "codepoint": 61884,
+      "codepoint": 61573,
       "source": "svg/cogs.svg"
     },
     "columns": {
-      "codepoint": 61885,
+      "codepoint": 61659,
       "source": "svg/columns.svg"
     },
     "comment": {
-      "codepoint": 61886,
+      "codepoint": 61557,
       "source": "svg/comment.svg"
     },
     "comment-o": {
-      "codepoint": 61887,
+      "codepoint": 61669,
       "source": "svg/comment-o.svg"
     },
     "commenting": {
-      "codepoint": 61888,
+      "codepoint": 62074,
       "source": "svg/commenting.svg"
     },
     "commenting-o": {
-      "codepoint": 61889,
+      "codepoint": 62075,
       "source": "svg/commenting-o.svg"
     },
     "comments": {
-      "codepoint": 61890,
+      "codepoint": 61574,
       "source": "svg/comments.svg"
     },
     "comments-o": {
-      "codepoint": 61891,
+      "codepoint": 61670,
       "source": "svg/comments-o.svg"
     },
+    "commercial-at": {
+      "codepoint": 64,
+      "source": "svg/at.svg"
+    },
     "compass": {
-      "codepoint": 61892,
+      "codepoint": 61774,
       "source": "svg/compass.svg"
     },
     "compress": {
-      "codepoint": 61893,
+      "codepoint": 61542,
       "source": "svg/compress.svg"
     },
     "connectdevelop": {
-      "codepoint": 61894,
+      "codepoint": 61966,
       "source": "svg/connectdevelop.svg"
     },
     "contao": {
-      "codepoint": 61895,
+      "codepoint": 62061,
       "source": "svg/contao.svg"
     },
     "conway-glider": {
-      "codepoint": 61896,
+      "codepoint": 62281,
       "source": "svg/conway-glider.svg"
     },
     "copyright": {
-      "codepoint": 61897,
+      "codepoint": 61945,
       "source": "svg/copyright.svg"
     },
+    "copyright-sign": {
+      "codepoint": 169,
+      "source": "svg/copyright.svg"
+    },
+    "cpanel": {
+      "codepoint": 62344,
+      "source": "svg/placeholder.svg"
+    },
     "creative-commons": {
-      "codepoint": 61898,
+      "codepoint": 62046,
       "source": "svg/creative-commons.svg"
     },
     "credit-card": {
-      "codepoint": 61899,
+      "codepoint": 61597,
       "source": "svg/credit-card.svg"
     },
     "credit-card-alt": {
-      "codepoint": 61900,
+      "codepoint": 62083,
       "source": "svg/credit-card-alt.svg"
     },
     "crop": {
-      "codepoint": 61901,
+      "codepoint": 61733,
       "source": "svg/crop.svg"
     },
     "crosshairs": {
-      "codepoint": 61902,
+      "codepoint": 61531,
       "source": "svg/crosshairs.svg"
     },
     "csharp": {
-      "codepoint": 61903,
+      "codepoint": 62282,
       "source": "svg/csharp.svg"
     },
     "css3": {
-      "codepoint": 61904,
+      "codepoint": 61756,
       "source": "svg/css3.svg"
     },
+    "css3-alt": {
+      "codepoint": 62347,
+      "source": "svg/placeholder.svg"
+    },
     "cube": {
-      "codepoint": 61905,
+      "codepoint": 61874,
       "source": "svg/cube.svg"
     },
     "cubes": {
-      "codepoint": 61906,
+      "codepoint": 61875,
       "source": "svg/cubes.svg"
     },
     "cutlery": {
-      "codepoint": 61907,
+      "codepoint": 61685,
       "source": "svg/cutlery.svg"
     },
+    "cuttlefish": {
+      "codepoint": 62348,
+      "source": "svg/placeholder.svg"
+    },
+    "d-and-d": {
+      "codepoint": 62349,
+      "source": "svg/placeholder.svg"
+    },
     "dashcube": {
-      "codepoint": 61908,
+      "codepoint": 61968,
       "source": "svg/dashcube.svg"
     },
     "database": {
-      "codepoint": 61909,
+      "codepoint": 61888,
       "source": "svg/database.svg"
     },
     "deaf": {
-      "codepoint": 61910,
+      "codepoint": 62116,
       "source": "svg/deaf.svg"
     },
     "debian": {
-      "codepoint": 61911,
+      "codepoint": 62207,
       "source": "svg/debian.svg"
     },
     "delicious": {
-      "codepoint": 61912,
+      "codepoint": 61861,
       "source": "svg/delicious.svg"
     },
+    "deploydog": {
+      "codepoint": 62350,
+      "source": "svg/placeholder.svg"
+    },
+    "deskpro": {
+      "codepoint": 62351,
+      "source": "svg/placeholder.svg"
+    },
     "desktop": {
-      "codepoint": 61913,
+      "codepoint": 61704,
+      "source": "svg/desktop.svg"
+    },
+    "desktop-alt": {
+      "codepoint": 62352,
       "source": "svg/desktop.svg"
     },
     "dev-to": {
-      "codepoint": 61914,
+      "codepoint": 63180,
       "source": "svg/dev-to.svg"
     },
     "deviantart": {
-      "codepoint": 61915,
+      "codepoint": 61885,
       "source": "svg/deviantart.svg"
     },
     "diamond": {
-      "codepoint": 61916,
+      "codepoint": 61977,
       "source": "svg/diamond.svg"
     },
     "diaspora": {
-      "codepoint": 61917,
+      "codepoint": 63377,
       "source": "svg/diaspora.svg"
     },
     "digg": {
-      "codepoint": 61918,
+      "codepoint": 61862,
       "source": "svg/digg.svg"
     },
     "digitalocean": {
-      "codepoint": 61919,
+      "codepoint": 62353,
       "source": "svg/digitalocean.svg"
     },
     "discord": {
-      "codepoint": 61920,
+      "codepoint": 62354,
       "source": "svg/discord.svg"
     },
     "discord-alt": {
-      "codepoint": 61921,
+      "codepoint": 62191,
       "source": "svg/discord-alt.svg"
     },
     "discourse": {
-      "codepoint": 61922,
+      "codepoint": 62355,
       "source": "svg/discourse.svg"
     },
+    "dochub": {
+      "codepoint": 62356,
+      "source": "svg/placeholder.svg"
+    },
     "docker": {
-      "codepoint": 61923,
+      "codepoint": 62357,
       "source": "svg/docker.svg"
     },
     "dogmazic": {
-      "codepoint": 61924,
+      "codepoint": 61627,
       "source": "svg/dogmazic.svg"
     },
+    "dollar-sign": {
+      "codepoint": 36,
+      "source": "svg/usd.svg"
+    },
     "dot-circle-o": {
-      "codepoint": 61925,
+      "codepoint": 61842,
       "source": "svg/dot-circle-o.svg"
     },
+    "down-long": {
+      "codepoint": 62217,
+      "source": "svg/arrow-down.svg"
+    },
     "download": {
-      "codepoint": 61926,
+      "codepoint": 61465,
       "source": "svg/download.svg"
     },
+    "draft2digital": {
+      "codepoint": 62358,
+      "source": "svg/placeholder.svg"
+    },
     "dribbble": {
-      "codepoint": 61927,
+      "codepoint": 61821,
       "source": "svg/dribbble.svg"
     },
     "dropbox": {
-      "codepoint": 61928,
+      "codepoint": 61803,
       "source": "svg/dropbox.svg"
     },
     "drupal": {
-      "codepoint": 61929,
+      "codepoint": 61865,
       "source": "svg/drupal.svg"
     },
+    "dyalog": {
+      "codepoint": 62361,
+      "source": "svg/placeholder.svg"
+    },
+    "e005": {
+      "codepoint": 57349,
+      "source": "svg/placeholder.svg"
+    },
+    "e006": {
+      "codepoint": 57350,
+      "source": "svg/placeholder.svg"
+    },
+    "e012": {
+      "codepoint": 57362,
+      "source": "svg/placeholder.svg"
+    },
+    "e013": {
+      "codepoint": 57363,
+      "source": "svg/placeholder.svg"
+    },
+    "e01a": {
+      "codepoint": 57370,
+      "source": "svg/placeholder.svg"
+    },
+    "e01e": {
+      "codepoint": 57374,
+      "source": "svg/placeholder.svg"
+    },
+    "e03f": {
+      "codepoint": 57407,
+      "source": "svg/placeholder.svg"
+    },
+    "e040": {
+      "codepoint": 57408,
+      "source": "svg/placeholder.svg"
+    },
+    "e041": {
+      "codepoint": 57409,
+      "source": "svg/placeholder.svg"
+    },
+    "e052": {
+      "codepoint": 57426,
+      "source": "svg/placeholder.svg"
+    },
+    "e055": {
+      "codepoint": 57429,
+      "source": "svg/placeholder.svg"
+    },
+    "e056": {
+      "codepoint": 57430,
+      "source": "svg/placeholder.svg"
+    },
+    "e057": {
+      "codepoint": 57431,
+      "source": "svg/placeholder.svg"
+    },
+    "e059": {
+      "codepoint": 57433,
+      "source": "svg/placeholder.svg"
+    },
+    "e05a": {
+      "codepoint": 57434,
+      "source": "svg/placeholder.svg"
+    },
+    "e05b": {
+      "codepoint": 57435,
+      "source": "svg/placeholder.svg"
+    },
+    "e05c": {
+      "codepoint": 57436,
+      "source": "svg/placeholder.svg"
+    },
+    "e05d": {
+      "codepoint": 57437,
+      "source": "svg/placeholder.svg"
+    },
+    "e05e": {
+      "codepoint": 57438,
+      "source": "svg/placeholder.svg"
+    },
+    "e05f": {
+      "codepoint": 57439,
+      "source": "svg/placeholder.svg"
+    },
+    "e060": {
+      "codepoint": 57440,
+      "source": "svg/placeholder.svg"
+    },
+    "e061": {
+      "codepoint": 57441,
+      "source": "svg/placeholder.svg"
+    },
+    "e062": {
+      "codepoint": 57442,
+      "source": "svg/placeholder.svg"
+    },
+    "e063": {
+      "codepoint": 57443,
+      "source": "svg/placeholder.svg"
+    },
+    "e064": {
+      "codepoint": 57444,
+      "source": "svg/placeholder.svg"
+    },
+    "e065": {
+      "codepoint": 57445,
+      "source": "svg/placeholder.svg"
+    },
+    "e066": {
+      "codepoint": 57446,
+      "source": "svg/placeholder.svg"
+    },
+    "e067": {
+      "codepoint": 57447,
+      "source": "svg/placeholder.svg"
+    },
+    "e068": {
+      "codepoint": 57448,
+      "source": "svg/placeholder.svg"
+    },
+    "e069": {
+      "codepoint": 57449,
+      "source": "svg/placeholder.svg"
+    },
+    "e06a": {
+      "codepoint": 57450,
+      "source": "svg/placeholder.svg"
+    },
+    "e06b": {
+      "codepoint": 57451,
+      "source": "svg/placeholder.svg"
+    },
+    "e06c": {
+      "codepoint": 57452,
+      "source": "svg/placeholder.svg"
+    },
+    "e06d": {
+      "codepoint": 57453,
+      "source": "svg/placeholder.svg"
+    },
+    "e06e": {
+      "codepoint": 57454,
+      "source": "svg/placeholder.svg"
+    },
+    "e06f": {
+      "codepoint": 57455,
+      "source": "svg/placeholder.svg"
+    },
+    "e070": {
+      "codepoint": 57456,
+      "source": "svg/placeholder.svg"
+    },
+    "e071": {
+      "codepoint": 57457,
+      "source": "svg/placeholder.svg"
+    },
+    "e072": {
+      "codepoint": 57458,
+      "source": "svg/placeholder.svg"
+    },
+    "e073": {
+      "codepoint": 57459,
+      "source": "svg/placeholder.svg"
+    },
+    "e074": {
+      "codepoint": 57460,
+      "source": "svg/placeholder.svg"
+    },
+    "e075": {
+      "codepoint": 57461,
+      "source": "svg/placeholder.svg"
+    },
+    "e076": {
+      "codepoint": 57462,
+      "source": "svg/placeholder.svg"
+    },
+    "e077": {
+      "codepoint": 57463,
+      "source": "svg/placeholder.svg"
+    },
+    "e079": {
+      "codepoint": 57465,
+      "source": "svg/placeholder.svg"
+    },
+    "e07b": {
+      "codepoint": 57467,
+      "source": "svg/placeholder.svg"
+    },
+    "e07d": {
+      "codepoint": 57469,
+      "source": "svg/placeholder.svg"
+    },
+    "e07e": {
+      "codepoint": 57470,
+      "source": "svg/placeholder.svg"
+    },
+    "e07f": {
+      "codepoint": 57471,
+      "source": "svg/placeholder.svg"
+    },
+    "e080": {
+      "codepoint": 57472,
+      "source": "svg/placeholder.svg"
+    },
+    "e081": {
+      "codepoint": 57473,
+      "source": "svg/placeholder.svg"
+    },
+    "e082": {
+      "codepoint": 57474,
+      "source": "svg/placeholder.svg"
+    },
+    "e083": {
+      "codepoint": 57475,
+      "source": "svg/placeholder.svg"
+    },
+    "e084": {
+      "codepoint": 57476,
+      "source": "svg/placeholder.svg"
+    },
+    "e085": {
+      "codepoint": 57477,
+      "source": "svg/placeholder.svg"
+    },
+    "e086": {
+      "codepoint": 57478,
+      "source": "svg/placeholder.svg"
+    },
+    "e087": {
+      "codepoint": 57479,
+      "source": "svg/placeholder.svg"
+    },
+    "e088": {
+      "codepoint": 57480,
+      "source": "svg/placeholder.svg"
+    },
+    "e097": {
+      "codepoint": 57495,
+      "source": "svg/placeholder.svg"
+    },
+    "e098": {
+      "codepoint": 57496,
+      "source": "svg/placeholder.svg"
+    },
+    "e09a": {
+      "codepoint": 57498,
+      "source": "svg/placeholder.svg"
+    },
+    "e0a9": {
+      "codepoint": 57513,
+      "source": "svg/placeholder.svg"
+    },
+    "e0ac": {
+      "codepoint": 57516,
+      "source": "svg/placeholder.svg"
+    },
+    "e0b4": {
+      "codepoint": 57524,
+      "source": "svg/placeholder.svg"
+    },
+    "e0b7": {
+      "codepoint": 57527,
+      "source": "svg/placeholder.svg"
+    },
+    "e0bb": {
+      "codepoint": 57531,
+      "source": "svg/placeholder.svg"
+    },
+    "e0d8": {
+      "codepoint": 57560,
+      "source": "svg/placeholder.svg"
+    },
+    "e0df": {
+      "codepoint": 57567,
+      "source": "svg/placeholder.svg"
+    },
+    "e0e3": {
+      "codepoint": 57571,
+      "source": "svg/placeholder.svg"
+    },
+    "e0e4": {
+      "codepoint": 57572,
+      "source": "svg/placeholder.svg"
+    },
+    "e131": {
+      "codepoint": 57649,
+      "source": "svg/placeholder.svg"
+    },
+    "e139": {
+      "codepoint": 57657,
+      "source": "svg/placeholder.svg"
+    },
+    "e13a": {
+      "codepoint": 57658,
+      "source": "svg/placeholder.svg"
+    },
+    "e13b": {
+      "codepoint": 57659,
+      "source": "svg/placeholder.svg"
+    },
+    "e13c": {
+      "codepoint": 57660,
+      "source": "svg/placeholder.svg"
+    },
+    "e140": {
+      "codepoint": 57664,
+      "source": "svg/placeholder.svg"
+    },
+    "e152": {
+      "codepoint": 57682,
+      "source": "svg/placeholder.svg"
+    },
+    "e163": {
+      "codepoint": 57699,
+      "source": "svg/placeholder.svg"
+    },
+    "e169": {
+      "codepoint": 57705,
+      "source": "svg/placeholder.svg"
+    },
+    "e16d": {
+      "codepoint": 57709,
+      "source": "svg/placeholder.svg"
+    },
+    "e17b": {
+      "codepoint": 57723,
+      "source": "svg/placeholder.svg"
+    },
+    "e184": {
+      "codepoint": 57732,
+      "source": "svg/placeholder.svg"
+    },
+    "e185": {
+      "codepoint": 57733,
+      "source": "svg/placeholder.svg"
+    },
+    "e18f": {
+      "codepoint": 57743,
+      "source": "svg/placeholder.svg"
+    },
+    "e19a": {
+      "codepoint": 57754,
+      "source": "svg/placeholder.svg"
+    },
+    "e19b": {
+      "codepoint": 57755,
+      "source": "svg/placeholder.svg"
+    },
+    "e1a8": {
+      "codepoint": 57768,
+      "source": "svg/placeholder.svg"
+    },
+    "e1b0": {
+      "codepoint": 57776,
+      "source": "svg/placeholder.svg"
+    },
+    "e1bc": {
+      "codepoint": 57788,
+      "source": "svg/placeholder.svg"
+    },
+    "e1c4": {
+      "codepoint": 57796,
+      "source": "svg/placeholder.svg"
+    },
+    "e1c8": {
+      "codepoint": 57800,
+      "source": "svg/placeholder.svg"
+    },
+    "e1d3": {
+      "codepoint": 57811,
+      "source": "svg/placeholder.svg"
+    },
+    "e1d5": {
+      "codepoint": 57813,
+      "source": "svg/placeholder.svg"
+    },
+    "e1d7": {
+      "codepoint": 57815,
+      "source": "svg/placeholder.svg"
+    },
+    "e1ed": {
+      "codepoint": 57837,
+      "source": "svg/placeholder.svg"
+    },
+    "e1f3": {
+      "codepoint": 57843,
+      "source": "svg/placeholder.svg"
+    },
+    "e1f6": {
+      "codepoint": 57846,
+      "source": "svg/placeholder.svg"
+    },
+    "e209": {
+      "codepoint": 57865,
+      "source": "svg/placeholder.svg"
+    },
+    "e221": {
+      "codepoint": 57889,
+      "source": "svg/placeholder.svg"
+    },
+    "e222": {
+      "codepoint": 57890,
+      "source": "svg/placeholder.svg"
+    },
+    "e22d": {
+      "codepoint": 57901,
+      "source": "svg/placeholder.svg"
+    },
+    "e23d": {
+      "codepoint": 57917,
+      "source": "svg/placeholder.svg"
+    },
+    "e289": {
+      "codepoint": 57993,
+      "source": "svg/placeholder.svg"
+    },
+    "e29c": {
+      "codepoint": 58012,
+      "source": "svg/placeholder.svg"
+    },
+    "e2b7": {
+      "codepoint": 58039,
+      "source": "svg/placeholder.svg"
+    },
+    "e2c5": {
+      "codepoint": 58053,
+      "source": "svg/placeholder.svg"
+    },
+    "e2ca": {
+      "codepoint": 58058,
+      "source": "svg/placeholder.svg"
+    },
+    "e2cd": {
+      "codepoint": 58061,
+      "source": "svg/placeholder.svg"
+    },
+    "e2ce": {
+      "codepoint": 58062,
+      "source": "svg/placeholder.svg"
+    },
+    "e2d0": {
+      "codepoint": 58064,
+      "source": "svg/placeholder.svg"
+    },
+    "e2eb": {
+      "codepoint": 58091,
+      "source": "svg/placeholder.svg"
+    },
+    "e31e": {
+      "codepoint": 58142,
+      "source": "svg/placeholder.svg"
+    },
+    "e340": {
+      "codepoint": 58176,
+      "source": "svg/placeholder.svg"
+    },
+    "e360": {
+      "codepoint": 58208,
+      "source": "svg/placeholder.svg"
+    },
+    "e3af": {
+      "codepoint": 58287,
+      "source": "svg/placeholder.svg"
+    },
+    "e3b1": {
+      "codepoint": 58289,
+      "source": "svg/placeholder.svg"
+    },
+    "e3b2": {
+      "codepoint": 58290,
+      "source": "svg/placeholder.svg"
+    },
+    "e3d9": {
+      "codepoint": 58329,
+      "source": "svg/placeholder.svg"
+    },
+    "e3f5": {
+      "codepoint": 58357,
+      "source": "svg/placeholder.svg"
+    },
+    "e433": {
+      "codepoint": 58419,
+      "source": "svg/placeholder.svg"
+    },
+    "e43a": {
+      "codepoint": 58426,
+      "source": "svg/placeholder.svg"
+    },
+    "e43b": {
+      "codepoint": 58427,
+      "source": "svg/placeholder.svg"
+    },
+    "e43c": {
+      "codepoint": 58428,
+      "source": "svg/placeholder.svg"
+    },
+    "e445": {
+      "codepoint": 58437,
+      "source": "svg/placeholder.svg"
+    },
+    "e447": {
+      "codepoint": 58439,
+      "source": "svg/placeholder.svg"
+    },
+    "e448": {
+      "codepoint": 58440,
+      "source": "svg/placeholder.svg"
+    },
+    "e44a": {
+      "codepoint": 58442,
+      "source": "svg/placeholder.svg"
+    },
+    "e46c": {
+      "codepoint": 58476,
+      "source": "svg/placeholder.svg"
+    },
+    "e473": {
+      "codepoint": 58483,
+      "source": "svg/placeholder.svg"
+    },
+    "e476": {
+      "codepoint": 58486,
+      "source": "svg/placeholder.svg"
+    },
+    "e477": {
+      "codepoint": 58487,
+      "source": "svg/placeholder.svg"
+    },
+    "e47a": {
+      "codepoint": 58490,
+      "source": "svg/placeholder.svg"
+    },
+    "e47b": {
+      "codepoint": 58491,
+      "source": "svg/placeholder.svg"
+    },
+    "e490": {
+      "codepoint": 58512,
+      "source": "svg/placeholder.svg"
+    },
+    "e493": {
+      "codepoint": 58515,
+      "source": "svg/placeholder.svg"
+    },
+    "e494": {
+      "codepoint": 58516,
+      "source": "svg/placeholder.svg"
+    },
+    "e4a0": {
+      "codepoint": 58528,
+      "source": "svg/placeholder.svg"
+    },
+    "e4a5": {
+      "codepoint": 58533,
+      "source": "svg/placeholder.svg"
+    },
+    "e4a8": {
+      "codepoint": 58536,
+      "source": "svg/placeholder.svg"
+    },
+    "e4a9": {
+      "codepoint": 58537,
+      "source": "svg/placeholder.svg"
+    },
+    "e4aa": {
+      "codepoint": 58538,
+      "source": "svg/placeholder.svg"
+    },
+    "e4ab": {
+      "codepoint": 58539,
+      "source": "svg/placeholder.svg"
+    },
+    "e4ac": {
+      "codepoint": 58540,
+      "source": "svg/placeholder.svg"
+    },
+    "e4ad": {
+      "codepoint": 58541,
+      "source": "svg/placeholder.svg"
+    },
+    "e4af": {
+      "codepoint": 58543,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b0": {
+      "codepoint": 58544,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b3": {
+      "codepoint": 58547,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b5": {
+      "codepoint": 58549,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b6": {
+      "codepoint": 58550,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b7": {
+      "codepoint": 58551,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b8": {
+      "codepoint": 58552,
+      "source": "svg/placeholder.svg"
+    },
+    "e4b9": {
+      "codepoint": 58553,
+      "source": "svg/placeholder.svg"
+    },
+    "e4ba": {
+      "codepoint": 58554,
+      "source": "svg/placeholder.svg"
+    },
+    "e4bb": {
+      "codepoint": 58555,
+      "source": "svg/placeholder.svg"
+    },
+    "e4bc": {
+      "codepoint": 58556,
+      "source": "svg/placeholder.svg"
+    },
+    "e4bd": {
+      "codepoint": 58557,
+      "source": "svg/placeholder.svg"
+    },
+    "e4be": {
+      "codepoint": 58558,
+      "source": "svg/placeholder.svg"
+    },
+    "e4bf": {
+      "codepoint": 58559,
+      "source": "svg/placeholder.svg"
+    },
+    "e59d": {
+      "codepoint": 58781,
+      "source": "svg/placeholder.svg"
+    },
+    "earlybirds": {
+      "codepoint": 62362,
+      "source": "svg/placeholder.svg"
+    },
     "edge": {
-      "codepoint": 61930,
+      "codepoint": 62082,
       "source": "svg/edge.svg"
     },
+    "edge-legacy": {
+      "codepoint": 57464,
+      "source": "svg/edge-legacy.svg"
+    },
     "eercast": {
-      "codepoint": 61931,
+      "codepoint": 62170,
       "source": "svg/eercast.svg"
     },
     "eject": {
-      "codepoint": 61932,
+      "codepoint": 61522,
       "source": "svg/eject.svg"
     },
     "ellipsis-h": {
-      "codepoint": 61933,
+      "codepoint": 61761,
       "source": "svg/ellipsis-h.svg"
     },
     "ellipsis-v": {
-      "codepoint": 61934,
+      "codepoint": 61762,
       "source": "svg/ellipsis-v.svg"
     },
     "email-bulk": {
-      "codepoint": 61935,
+      "codepoint": 63092,
       "source": "svg/email-bulk.svg"
     },
     "email-bulk-o": {
-      "codepoint": 61936,
+      "codepoint": 62284,
       "source": "svg/email-bulk-o.svg"
     },
     "emby": {
-      "codepoint": 61937,
+      "codepoint": 62233,
       "source": "svg/emby.svg"
     },
     "empire": {
-      "codepoint": 61938,
+      "codepoint": 61905,
       "source": "svg/empire.svg"
     },
     "envelope": {
-      "codepoint": 61939,
+      "codepoint": 61664,
       "source": "svg/envelope.svg"
     },
     "envelope-o": {
-      "codepoint": 61940,
+      "codepoint": 61443,
       "source": "svg/envelope-o.svg"
     },
     "envelope-open": {
-      "codepoint": 61941,
+      "codepoint": 62134,
       "source": "svg/envelope-open.svg"
     },
     "envelope-open-o": {
-      "codepoint": 61942,
+      "codepoint": 62135,
       "source": "svg/envelope-open-o.svg"
     },
     "envelope-square": {
-      "codepoint": 61943,
+      "codepoint": 61849,
       "source": "svg/envelope-square.svg"
     },
     "envira": {
-      "codepoint": 61944,
+      "codepoint": 62105,
       "source": "svg/envira.svg"
     },
     "eraser": {
-      "codepoint": 61945,
+      "codepoint": 61741,
       "source": "svg/eraser.svg"
     },
+    "erlang": {
+      "codepoint": 62365,
+      "source": "svg/placeholder.svg"
+    },
     "ethereum": {
-      "codepoint": 61946,
+      "codepoint": 62510,
       "source": "svg/ethereum.svg"
     },
     "etsy": {
-      "codepoint": 61947,
+      "codepoint": 62167,
       "source": "svg/etsy.svg"
     },
     "eur": {
-      "codepoint": 61948,
+      "codepoint": 61779,
+      "source": "svg/eur.svg"
+    },
+    "euro-currency-sign": {
+      "codepoint": 8364,
       "source": "svg/eur.svg"
     },
     "exchange": {
-      "codepoint": 61949,
+      "codepoint": 61676,
       "source": "svg/exchange.svg"
     },
     "exclamation": {
-      "codepoint": 61950,
+      "codepoint": 61738,
       "source": "svg/exclamation.svg"
     },
     "exclamation-circle": {
-      "codepoint": 61951,
+      "codepoint": 61546,
       "source": "svg/exclamation-circle.svg"
     },
     "exclamation-triangle": {
-      "codepoint": 61952,
+      "codepoint": 61553,
       "source": "svg/exclamation-triangle.svg"
     },
     "expand": {
-      "codepoint": 61953,
+      "codepoint": 61541,
       "source": "svg/expand.svg"
     },
     "expeditedssl": {
-      "codepoint": 61954,
+      "codepoint": 62014,
       "source": "svg/expeditedssl.svg"
     },
     "external-link": {
-      "codepoint": 61955,
+      "codepoint": 61582,
+      "source": "svg/external-link.svg"
+    },
+    "external-link-alt": {
+      "codepoint": 62301,
       "source": "svg/external-link.svg"
     },
     "external-link-square": {
-      "codepoint": 61956,
+      "codepoint": 61772,
       "source": "svg/external-link-square.svg"
     },
     "eye": {
-      "codepoint": 61957,
+      "codepoint": 61550,
       "source": "svg/eye.svg"
     },
     "eye-slash": {
-      "codepoint": 61958,
+      "codepoint": 61552,
       "source": "svg/eye-slash.svg"
     },
     "eyedropper": {
-      "codepoint": 61959,
+      "codepoint": 61947,
       "source": "svg/eyedropper.svg"
     },
     "eyeem": {
-      "codepoint": 61960,
+      "codepoint": 62308,
       "source": "svg/eyeem.svg"
     },
     "eyeem-o": {
-      "codepoint": 61961,
+      "codepoint": 62309,
       "source": "svg/eyeem-o.svg"
     },
     "f-droid": {
-      "codepoint": 61962,
+      "codepoint": 62250,
       "source": "svg/f-droid.svg"
     },
     "facebook": {
-      "codepoint": 61963,
+      "codepoint": 61594,
+      "source": "svg/facebook.svg"
+    },
+    "facebook-f": {
+      "codepoint": 62366,
       "source": "svg/facebook.svg"
     },
     "facebook-messenger": {
-      "codepoint": 61964,
+      "codepoint": 62367,
       "source": "svg/facebook-messenger.svg"
     },
     "facebook-official": {
-      "codepoint": 61965,
+      "codepoint": 62000,
       "source": "svg/facebook-official.svg"
     },
     "facebook-square": {
-      "codepoint": 61966,
+      "codepoint": 61570,
       "source": "svg/facebook-square.svg"
     },
     "fast-backward": {
-      "codepoint": 61967,
+      "codepoint": 61513,
       "source": "svg/fast-backward.svg"
     },
     "fast-forward": {
-      "codepoint": 61968,
+      "codepoint": 61520,
       "source": "svg/fast-forward.svg"
     },
     "fax": {
-      "codepoint": 61969,
+      "codepoint": 61868,
       "source": "svg/fax.svg"
     },
     "fediverse": {
-      "codepoint": 61970,
+      "codepoint": 62305,
       "source": "svg/fediverse.svg"
     },
     "female": {
-      "codepoint": 61971,
+      "codepoint": 61826,
       "source": "svg/female.svg"
     },
     "ffmpeg": {
-      "codepoint": 61972,
+      "codepoint": 62223,
       "source": "svg/ffmpeg.svg"
     },
     "fighter-jet": {
-      "codepoint": 61973,
+      "codepoint": 61691,
       "source": "svg/fighter-jet.svg"
     },
     "file": {
-      "codepoint": 61974,
+      "codepoint": 61787,
       "source": "svg/file.svg"
     },
     "file-archive-o": {
-      "codepoint": 61975,
+      "codepoint": 61894,
       "source": "svg/file-archive-o.svg"
     },
     "file-audio-o": {
-      "codepoint": 61976,
+      "codepoint": 61895,
       "source": "svg/file-audio-o.svg"
     },
     "file-code-o": {
-      "codepoint": 61977,
+      "codepoint": 61897,
       "source": "svg/file-code-o.svg"
     },
     "file-epub": {
-      "codepoint": 61978,
+      "codepoint": 62241,
       "source": "svg/file-epub.svg"
     },
     "file-excel-o": {
-      "codepoint": 61979,
+      "codepoint": 61891,
       "source": "svg/file-excel-o.svg"
     },
     "file-image-o": {
-      "codepoint": 61980,
+      "codepoint": 61893,
       "source": "svg/file-image-o.svg"
     },
     "file-o": {
-      "codepoint": 61981,
+      "codepoint": 61462,
       "source": "svg/file-o.svg"
     },
     "file-pdf-o": {
-      "codepoint": 61982,
+      "codepoint": 61889,
       "source": "svg/file-pdf-o.svg"
     },
+    "file-pen": {
+      "codepoint": 62236,
+      "source": "svg/placeholder.svg"
+    },
     "file-powerpoint-o": {
-      "codepoint": 61983,
+      "codepoint": 61892,
       "source": "svg/file-powerpoint-o.svg"
     },
     "file-text": {
-      "codepoint": 61984,
+      "codepoint": 61788,
       "source": "svg/file-text.svg"
     },
     "file-text-o": {
-      "codepoint": 61985,
+      "codepoint": 61686,
       "source": "svg/file-text-o.svg"
     },
     "file-video-o": {
-      "codepoint": 61986,
+      "codepoint": 61896,
       "source": "svg/file-video-o.svg"
     },
     "file-word-o": {
-      "codepoint": 61987,
+      "codepoint": 61890,
       "source": "svg/file-word-o.svg"
     },
     "files-o": {
-      "codepoint": 61988,
+      "codepoint": 61637,
       "source": "svg/files-o.svg"
     },
     "film": {
-      "codepoint": 61989,
+      "codepoint": 61448,
       "source": "svg/film.svg"
     },
     "filter": {
-      "codepoint": 61990,
+      "codepoint": 61616,
       "source": "svg/filter.svg"
     },
     "fire": {
-      "codepoint": 61991,
+      "codepoint": 61549,
       "source": "svg/fire.svg"
     },
     "fire-extinguisher": {
-      "codepoint": 61992,
+      "codepoint": 61748,
       "source": "svg/fire-extinguisher.svg"
     },
     "firefox": {
-      "codepoint": 61993,
+      "codepoint": 62057,
+      "source": "svg/firefox.svg"
+    },
+    "firefox-browser": {
+      "codepoint": 57351,
       "source": "svg/firefox.svg"
     },
     "first-order": {
-      "codepoint": 61994,
+      "codepoint": 62128,
       "source": "svg/first-order.svg"
     },
+    "firstdraft": {
+      "codepoint": 62369,
+      "source": "svg/placeholder.svg"
+    },
     "flag": {
-      "codepoint": 61995,
+      "codepoint": 61476,
       "source": "svg/flag.svg"
     },
     "flag-checkered": {
-      "codepoint": 61996,
+      "codepoint": 61726,
       "source": "svg/flag-checkered.svg"
     },
     "flag-o": {
-      "codepoint": 61997,
+      "codepoint": 61725,
       "source": "svg/flag-o.svg"
     },
     "flask": {
-      "codepoint": 61998,
+      "codepoint": 61635,
       "source": "svg/flask.svg"
     },
     "flickr": {
-      "codepoint": 61999,
+      "codepoint": 61806,
       "source": "svg/flickr.svg"
     },
     "floppy-o": {
-      "codepoint": 62000,
+      "codepoint": 61639,
       "source": "svg/floppy-o.svg"
     },
     "folder": {
-      "codepoint": 62001,
+      "codepoint": 61563,
       "source": "svg/folder.svg"
     },
     "folder-o": {
-      "codepoint": 62002,
+      "codepoint": 61716,
       "source": "svg/folder-o.svg"
     },
     "folder-open": {
-      "codepoint": 62003,
+      "codepoint": 61564,
       "source": "svg/folder-open.svg"
     },
     "folder-open-o": {
-      "codepoint": 62004,
+      "codepoint": 61717,
       "source": "svg/folder-open-o.svg"
     },
     "font": {
-      "codepoint": 62005,
+      "codepoint": 61489,
       "source": "svg/font.svg"
     },
     "font-awesome": {
-      "codepoint": 62006,
+      "codepoint": 62132,
+      "source": "svg/font-awesome.svg"
+    },
+    "font-awesome-alt": {
+      "codepoint": 62300,
       "source": "svg/font-awesome.svg"
     },
     "fonticons": {
-      "codepoint": 62007,
+      "codepoint": 62080,
       "source": "svg/fonticons.svg"
     },
+    "fonticons-fi": {
+      "codepoint": 62370,
+      "source": "svg/placeholder.svg"
+    },
     "fork-awesome": {
-      "codepoint": 62008,
+      "codepoint": 62179,
       "source": "svg/fork-awesome.svg"
     },
+    "fork-knife": {
+      "codepoint": 62182,
+      "source": "svg/placeholder.svg"
+    },
     "fort-awesome": {
-      "codepoint": 62009,
+      "codepoint": 62086,
       "source": "svg/fort-awesome.svg"
     },
+    "fort-awesome-alt": {
+      "codepoint": 62371,
+      "source": "svg/placeholder.svg"
+    },
     "forumbee": {
-      "codepoint": 62010,
+      "codepoint": 61969,
       "source": "svg/forumbee.svg"
     },
     "forward": {
-      "codepoint": 62011,
+      "codepoint": 61518,
       "source": "svg/forward.svg"
     },
     "foursquare": {
-      "codepoint": 62012,
+      "codepoint": 61824,
       "source": "svg/foursquare.svg"
     },
     "free-code-camp": {
-      "codepoint": 62013,
+      "codepoint": 62149,
       "source": "svg/free-code-camp.svg"
     },
+    "free-f020": {
+      "codepoint": 61472,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f0be": {
+      "codepoint": 61630,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f0bf": {
+      "codepoint": 61631,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f0cf": {
+      "codepoint": 61647,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f0df": {
+      "codepoint": 61663,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f0ef": {
+      "codepoint": 61679,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f0ff": {
+      "codepoint": 61695,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f10f": {
+      "codepoint": 61711,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f116": {
+      "codepoint": 61718,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f117": {
+      "codepoint": 61719,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f11f": {
+      "codepoint": 61727,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f12f": {
+      "codepoint": 61743,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f13f": {
+      "codepoint": 61759,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f14f": {
+      "codepoint": 61775,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f15f": {
+      "codepoint": 61791,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f16f": {
+      "codepoint": 61807,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f17f": {
+      "codepoint": 61823,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f18f": {
+      "codepoint": 61839,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f19f": {
+      "codepoint": 61855,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f1af": {
+      "codepoint": 61871,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f1bf": {
+      "codepoint": 61887,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f1cf": {
+      "codepoint": 61903,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f1df": {
+      "codepoint": 61919,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f1ef": {
+      "codepoint": 61935,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f1ff": {
+      "codepoint": 61951,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f20f": {
+      "codepoint": 61967,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f21f": {
+      "codepoint": 61983,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f220": {
+      "codepoint": 61984,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f22e": {
+      "codepoint": 61998,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f22f": {
+      "codepoint": 61999,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f23f": {
+      "codepoint": 62015,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f24f": {
+      "codepoint": 62031,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f25f": {
+      "codepoint": 62047,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f26f": {
+      "codepoint": 62063,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f27f": {
+      "codepoint": 62079,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f28f": {
+      "codepoint": 62095,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f29f": {
+      "codepoint": 62111,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2af": {
+      "codepoint": 62127,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2bf": {
+      "codepoint": 62143,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2cf": {
+      "codepoint": 62159,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2df": {
+      "codepoint": 62175,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2e1": {
+      "codepoint": 62177,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2ee": {
+      "codepoint": 62190,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2f0": {
+      "codepoint": 62192,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2f3": {
+      "codepoint": 62195,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2f4": {
+      "codepoint": 62196,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f2fb": {
+      "codepoint": 62203,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f30e": {
+      "codepoint": 62222,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f315": {
+      "codepoint": 62229,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f320": {
+      "codepoint": 62240,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f322": {
+      "codepoint": 62242,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f325": {
+      "codepoint": 62245,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f367": {
+      "codepoint": 62311,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f376": {
+      "codepoint": 62326,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f377": {
+      "codepoint": 62327,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f389": {
+      "codepoint": 62345,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f38a": {
+      "codepoint": 62346,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f398": {
+      "codepoint": 62360,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f39b": {
+      "codepoint": 62363,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f39c": {
+      "codepoint": 62364,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f3a0": {
+      "codepoint": 62368,
+      "source": "svg/placeholder.svg"
+    },
+    "free-f3b3": {
+      "codepoint": 62387,
+      "source": "svg/placeholder.svg"
+    },
+    "freebsd": {
+      "codepoint": 62372,
+      "source": "svg/placeholder.svg"
+    },
     "freedesktop": {
-      "codepoint": 62014,
+      "codepoint": 61471,
       "source": "svg/freedesktop.svg"
     },
     "freedombox": {
-      "codepoint": 62015,
+      "codepoint": 62205,
       "source": "svg/freedombox.svg"
     },
     "friendica": {
-      "codepoint": 62016,
+      "codepoint": 61623,
       "source": "svg/friendica.svg"
     },
     "frown-o": {
-      "codepoint": 62017,
+      "codepoint": 61721,
       "source": "svg/frown-o.svg"
     },
     "funkwhale": {
-      "codepoint": 62018,
+      "codepoint": 62265,
       "source": "svg/funkwhale.svg"
     },
     "futbol-o": {
-      "codepoint": 62019,
+      "codepoint": 61923,
       "source": "svg/futbol-o.svg"
     },
     "gamepad": {
-      "codepoint": 62020,
+      "codepoint": 61723,
       "source": "svg/gamepad.svg"
     },
     "gavel": {
-      "codepoint": 62021,
+      "codepoint": 61667,
       "source": "svg/gavel.svg"
     },
     "gbp": {
-      "codepoint": 62022,
+      "codepoint": 61780,
       "source": "svg/gbp.svg"
     },
+    "gem": {
+      "codepoint": 62373,
+      "source": "svg/gem.svg"
+    },
     "genderless": {
-      "codepoint": 62023,
+      "codepoint": 61997,
       "source": "svg/genderless.svg"
     },
     "get-pocket": {
-      "codepoint": 62024,
+      "codepoint": 62053,
       "source": "svg/get-pocket.svg"
     },
     "gg": {
-      "codepoint": 62025,
+      "codepoint": 62048,
       "source": "svg/gg.svg"
     },
     "gg-circle": {
-      "codepoint": 62026,
+      "codepoint": 62049,
       "source": "svg/gg-circle.svg"
     },
     "gift": {
-      "codepoint": 62027,
+      "codepoint": 61547,
       "source": "svg/gift.svg"
     },
     "gimp": {
-      "codepoint": 62028,
+      "codepoint": 62235,
       "source": "svg/gimp.svg"
     },
     "git": {
-      "codepoint": 62029,
+      "codepoint": 61907,
       "source": "svg/git.svg"
     },
     "git-square": {
-      "codepoint": 62030,
+      "codepoint": 61906,
       "source": "svg/git-square.svg"
     },
     "gitea": {
-      "codepoint": 62031,
+      "codepoint": 62239,
       "source": "svg/gitea.svg"
     },
     "github": {
-      "codepoint": 62032,
+      "codepoint": 61595,
       "source": "svg/github.svg"
     },
     "github-alt": {
-      "codepoint": 62033,
+      "codepoint": 61715,
       "source": "svg/github-alt.svg"
     },
     "github-square": {
-      "codepoint": 62034,
+      "codepoint": 61586,
       "source": "svg/github-square.svg"
     },
+    "gitkraken": {
+      "codepoint": 62374,
+      "source": "svg/placeholder.svg"
+    },
     "gitlab": {
-      "codepoint": 62035,
+      "codepoint": 62102,
       "source": "svg/gitlab.svg"
     },
     "glass": {
-      "codepoint": 62036,
+      "codepoint": 61440,
       "source": "svg/glass.svg"
     },
     "glide": {
-      "codepoint": 62037,
+      "codepoint": 62117,
       "source": "svg/glide.svg"
     },
     "glide-g": {
-      "codepoint": 62038,
+      "codepoint": 62118,
       "source": "svg/glide-g.svg"
     },
     "globe": {
-      "codepoint": 62039,
+      "codepoint": 61612,
       "source": "svg/globe.svg"
     },
     "globe-e": {
-      "codepoint": 62040,
+      "codepoint": 63394,
       "source": "svg/globe-e.svg"
     },
     "globe-w": {
-      "codepoint": 62041,
+      "codepoint": 62845,
       "source": "svg/globe-w.svg"
     },
     "gnu": {
-      "codepoint": 62042,
+      "codepoint": 62285,
       "source": "svg/gnu.svg"
     },
     "gnu-social": {
-      "codepoint": 62043,
+      "codepoint": 61622,
       "source": "svg/gnu-social.svg"
     },
     "gnupg": {
-      "codepoint": 62044,
+      "codepoint": 62221,
       "source": "svg/gnupg.svg"
     },
+    "gofore": {
+      "codepoint": 62375,
+      "source": "svg/placeholder.svg"
+    },
+    "golang": {
+      "codepoint": 58383,
+      "source": "svg/golang.svg"
+    },
+    "goodreads": {
+      "codepoint": 62376,
+      "source": "svg/placeholder.svg"
+    },
+    "goodreads-g": {
+      "codepoint": 62377,
+      "source": "svg/placeholder.svg"
+    },
     "google": {
-      "codepoint": 62045,
+      "codepoint": 61856,
       "source": "svg/google.svg"
     },
+    "google-drive": {
+      "codepoint": 62378,
+      "source": "svg/placeholder.svg"
+    },
     "google-play": {
-      "codepoint": 62046,
+      "codepoint": 62379,
       "source": "svg/google-play.svg"
     },
     "google-plus": {
-      "codepoint": 62047,
+      "codepoint": 61653,
       "source": "svg/google-plus.svg"
     },
     "google-plus-official": {
-      "codepoint": 62048,
+      "codepoint": 62131,
       "source": "svg/google-plus-official.svg"
     },
     "google-plus-square": {
-      "codepoint": 62049,
+      "codepoint": 61652,
       "source": "svg/google-plus-square.svg"
     },
     "google-wallet": {
-      "codepoint": 62050,
+      "codepoint": 61934,
       "source": "svg/google-wallet.svg"
     },
     "graduation-cap": {
-      "codepoint": 62051,
+      "codepoint": 61853,
       "source": "svg/graduation-cap.svg"
     },
     "gratipay": {
-      "codepoint": 62052,
+      "codepoint": 61828,
       "source": "svg/gratipay.svg"
     },
     "grav": {
-      "codepoint": 62053,
+      "codepoint": 62166,
       "source": "svg/grav.svg"
     },
+    "gripfire": {
+      "codepoint": 62380,
+      "source": "svg/placeholder.svg"
+    },
+    "grunt": {
+      "codepoint": 62381,
+      "source": "svg/placeholder.svg"
+    },
+    "gulp": {
+      "codepoint": 62382,
+      "source": "svg/placeholder.svg"
+    },
     "h-square": {
-      "codepoint": 62054,
+      "codepoint": 61693,
       "source": "svg/h-square.svg"
     },
     "hackaday": {
-      "codepoint": 62055,
+      "codepoint": 61619,
       "source": "svg/hackaday.svg"
     },
     "hacker-news": {
-      "codepoint": 62056,
+      "codepoint": 61908,
       "source": "svg/hacker-news.svg"
     },
     "hackster": {
-      "codepoint": 62057,
+      "codepoint": 62246,
       "source": "svg/hackster.svg"
     },
     "hal": {
-      "codepoint": 62058,
+      "codepoint": 62259,
       "source": "svg/hal.svg"
     },
     "hand-lizard-o": {
-      "codepoint": 62059,
+      "codepoint": 62040,
       "source": "svg/hand-lizard-o.svg"
     },
     "hand-o-down": {
-      "codepoint": 62060,
+      "codepoint": 61607,
       "source": "svg/hand-o-down.svg"
     },
     "hand-o-left": {
-      "codepoint": 62061,
+      "codepoint": 61605,
       "source": "svg/hand-o-left.svg"
     },
     "hand-o-right": {
-      "codepoint": 62062,
+      "codepoint": 61604,
       "source": "svg/hand-o-right.svg"
     },
     "hand-o-up": {
-      "codepoint": 62063,
+      "codepoint": 61606,
       "source": "svg/hand-o-up.svg"
     },
     "hand-paper-o": {
-      "codepoint": 62064,
+      "codepoint": 62038,
       "source": "svg/hand-paper-o.svg"
     },
     "hand-peace-o": {
-      "codepoint": 62065,
+      "codepoint": 62043,
       "source": "svg/hand-peace-o.svg"
     },
     "hand-pointer-o": {
-      "codepoint": 62066,
+      "codepoint": 62042,
       "source": "svg/hand-pointer-o.svg"
     },
     "hand-rock-o": {
-      "codepoint": 62067,
+      "codepoint": 62037,
       "source": "svg/hand-rock-o.svg"
     },
     "hand-scissors-o": {
-      "codepoint": 62068,
+      "codepoint": 62039,
       "source": "svg/hand-scissors-o.svg"
     },
     "hand-spock-o": {
-      "codepoint": 62069,
+      "codepoint": 62041,
       "source": "svg/hand-spock-o.svg"
     },
     "handshake-o": {
-      "codepoint": 62070,
+      "codepoint": 62133,
       "source": "svg/handshake-o.svg"
     },
     "hashnode": {
-      "codepoint": 62071,
+      "codepoint": 58521,
       "source": "svg/hashnode.svg"
     },
     "hashtag": {
-      "codepoint": 62072,
+      "codepoint": 62098,
       "source": "svg/hashtag.svg"
     },
     "hdd-o": {
-      "codepoint": 62073,
+      "codepoint": 61600,
       "source": "svg/hdd-o.svg"
     },
     "header": {
-      "codepoint": 62074,
+      "codepoint": 61916,
       "source": "svg/header.svg"
     },
     "headphones": {
-      "codepoint": 62075,
+      "codepoint": 61477,
       "source": "svg/headphones.svg"
     },
     "heart": {
-      "codepoint": 62076,
+      "codepoint": 61444,
       "source": "svg/heart.svg"
     },
     "heart-o": {
-      "codepoint": 62077,
+      "codepoint": 61578,
       "source": "svg/heart-o.svg"
     },
     "heartbeat": {
-      "codepoint": 62078,
+      "codepoint": 61982,
       "source": "svg/heartbeat.svg"
     },
     "hedgedoc": {
-      "codepoint": 62079,
+      "codepoint": 62283,
       "source": "svg/hedgedoc.svg"
     },
     "heroku": {
-      "codepoint": 62080,
+      "codepoint": 62287,
       "source": "svg/heroku.svg"
     },
+    "hire-a-helper": {
+      "codepoint": 62384,
+      "source": "svg/placeholder.svg"
+    },
     "history": {
-      "codepoint": 62081,
+      "codepoint": 61914,
       "source": "svg/history.svg"
     },
     "home": {
-      "codepoint": 62082,
+      "codepoint": 61461,
       "source": "svg/home.svg"
     },
     "home-assistant": {
-      "codepoint": 62083,
+      "codepoint": 62288,
       "source": "svg/home-assistant.svg"
     },
     "hospital-o": {
-      "codepoint": 62084,
+      "codepoint": 61688,
       "source": "svg/hospital-o.svg"
     },
+    "hotjar": {
+      "codepoint": 62385,
+      "source": "svg/placeholder.svg"
+    },
     "hourglass": {
-      "codepoint": 62085,
+      "codepoint": 62036,
       "source": "svg/hourglass.svg"
     },
     "hourglass-end": {
-      "codepoint": 62086,
+      "codepoint": 62035,
       "source": "svg/hourglass-end.svg"
     },
     "hourglass-half": {
-      "codepoint": 62087,
+      "codepoint": 62034,
       "source": "svg/hourglass-half.svg"
     },
     "hourglass-o": {
-      "codepoint": 62088,
+      "codepoint": 62032,
       "source": "svg/hourglass-o.svg"
     },
     "hourglass-start": {
-      "codepoint": 62089,
+      "codepoint": 62033,
       "source": "svg/hourglass-start.svg"
     },
+    "house-chimney-window": {
+      "codepoint": 57357,
+      "source": "svg/placeholder.svg"
+    },
     "houzz": {
-      "codepoint": 62090,
+      "codepoint": 62076,
       "source": "svg/houzz.svg"
     },
     "html5": {
-      "codepoint": 62091,
+      "codepoint": 61755,
       "source": "svg/html5.svg"
     },
+    "hubspot": {
+      "codepoint": 62386,
+      "source": "svg/placeholder.svg"
+    },
     "hubzilla": {
-      "codepoint": 62092,
+      "codepoint": 62187,
       "source": "svg/hubzilla.svg"
     },
     "i-cursor": {
-      "codepoint": 62093,
+      "codepoint": 62022,
       "source": "svg/i-cursor.svg"
     },
     "id-badge": {
-      "codepoint": 62094,
+      "codepoint": 62145,
       "source": "svg/id-badge.svg"
     },
     "id-card": {
-      "codepoint": 62095,
+      "codepoint": 62146,
       "source": "svg/id-card.svg"
     },
     "id-card-o": {
-      "codepoint": 62096,
+      "codepoint": 62147,
       "source": "svg/id-card-o.svg"
     },
     "ils": {
-      "codepoint": 62097,
+      "codepoint": 61963,
       "source": "svg/ils.svg"
     },
+    "images": {
+      "codepoint": 62210,
+      "source": "svg/picture-o.svg"
+    },
     "imdb": {
-      "codepoint": 62098,
+      "codepoint": 62168,
       "source": "svg/imdb.svg"
     },
     "inbox": {
-      "codepoint": 62099,
+      "codepoint": 61468,
       "source": "svg/inbox.svg"
     },
     "indent": {
-      "codepoint": 62100,
+      "codepoint": 61500,
       "source": "svg/indent.svg"
     },
+    "indian-rupee-sign": {
+      "codepoint": 8377,
+      "source": "svg/inr.svg"
+    },
     "industry": {
-      "codepoint": 62101,
+      "codepoint": 62069,
       "source": "svg/industry.svg"
     },
     "info": {
-      "codepoint": 62102,
+      "codepoint": 61737,
       "source": "svg/info.svg"
     },
     "info-circle": {
-      "codepoint": 62103,
+      "codepoint": 61530,
       "source": "svg/info-circle.svg"
     },
     "inkscape": {
-      "codepoint": 62104,
+      "codepoint": 62226,
       "source": "svg/inkscape.svg"
     },
     "inr": {
-      "codepoint": 62105,
+      "codepoint": 61782,
       "source": "svg/inr.svg"
     },
     "instagram": {
-      "codepoint": 62106,
+      "codepoint": 61805,
       "source": "svg/instagram.svg"
     },
     "internet-explorer": {
-      "codepoint": 62107,
+      "codepoint": 62059,
       "source": "svg/internet-explorer.svg"
     },
     "ioxhost": {
-      "codepoint": 62108,
+      "codepoint": 61960,
       "source": "svg/ioxhost.svg"
     },
     "ipfs": {
-      "codepoint": 62109,
+      "codepoint": 61567,
       "source": "svg/ipfs.svg"
     },
     "italic": {
-      "codepoint": 62110,
+      "codepoint": 61491,
       "source": "svg/italic.svg"
     },
+    "itunes": {
+      "codepoint": 62388,
+      "source": "svg/placeholder.svg"
+    },
+    "itunes-note": {
+      "codepoint": 62389,
+      "source": "svg/placeholder.svg"
+    },
     "java": {
-      "codepoint": 62111,
+      "codepoint": 62692,
       "source": "svg/java.svg"
     },
     "javascript": {
-      "codepoint": 62112,
+      "codepoint": 62392,
       "source": "svg/javascript.svg"
     },
+    "javascript-squared": {
+      "codepoint": 62393,
+      "source": "svg/javascript.svg"
+    },
+    "jenkins": {
+      "codepoint": 62390,
+      "source": "svg/placeholder.svg"
+    },
     "jirafeau": {
-      "codepoint": 62113,
+      "codepoint": 62232,
       "source": "svg/jirafeau.svg"
     },
+    "joget": {
+      "codepoint": 62391,
+      "source": "svg/placeholder.svg"
+    },
     "joomla": {
-      "codepoint": 62114,
+      "codepoint": 61866,
       "source": "svg/joomla.svg"
     },
     "joplin": {
-      "codepoint": 62115,
+      "codepoint": 62224,
       "source": "svg/joplin.svg"
     },
     "jpy": {
-      "codepoint": 62116,
+      "codepoint": 61783,
       "source": "svg/jpy.svg"
     },
     "jsfiddle": {
-      "codepoint": 62117,
+      "codepoint": 61900,
       "source": "svg/jsfiddle.svg"
     },
     "julia": {
-      "codepoint": 62118,
+      "codepoint": 62260,
       "source": "svg/julia.svg"
     },
     "jupyter": {
-      "codepoint": 62119,
+      "codepoint": 62261,
       "source": "svg/jupyter.svg"
     },
     "key": {
-      "codepoint": 62120,
+      "codepoint": 61572,
       "source": "svg/key.svg"
     },
+    "key-cdn": {
+      "codepoint": 62394,
+      "source": "svg/placeholder.svg"
+    },
     "key-modern": {
-      "codepoint": 62121,
+      "codepoint": 62199,
       "source": "svg/key-modern.svg"
     },
     "keybase": {
-      "codepoint": 62122,
+      "codepoint": 62709,
       "source": "svg/keybase.svg"
     },
     "keyboard-o": {
-      "codepoint": 62123,
+      "codepoint": 61724,
       "source": "svg/keyboard-o.svg"
     },
+    "kickstarter": {
+      "codepoint": 62395,
+      "source": "svg/placeholder.svg"
+    },
+    "kickstarter-k": {
+      "codepoint": 62396,
+      "source": "svg/placeholder.svg"
+    },
     "krw": {
-      "codepoint": 62124,
+      "codepoint": 61785,
       "source": "svg/krw.svg"
     },
     "language": {
-      "codepoint": 62125,
+      "codepoint": 61867,
       "source": "svg/language.svg"
     },
     "laptop": {
-      "codepoint": 62126,
+      "codepoint": 61705,
       "source": "svg/laptop.svg"
     },
     "laravel": {
-      "codepoint": 62127,
+      "codepoint": 62397,
       "source": "svg/laravel.svg"
     },
     "lastfm": {
-      "codepoint": 62128,
+      "codepoint": 61954,
       "source": "svg/lastfm.svg"
     },
     "lastfm-square": {
-      "codepoint": 62129,
+      "codepoint": 61955,
       "source": "svg/lastfm-square.svg"
     },
     "leaf": {
-      "codepoint": 62130,
+      "codepoint": 61548,
       "source": "svg/leaf.svg"
     },
     "leanpub": {
-      "codepoint": 62131,
+      "codepoint": 61970,
       "source": "svg/leanpub.svg"
     },
+    "left-long": {
+      "codepoint": 62218,
+      "source": "svg/arrow-left.svg"
+    },
     "lemmy": {
-      "codepoint": 62132,
+      "codepoint": 61551,
       "source": "svg/lemmy.svg"
     },
     "lemon-o": {
-      "codepoint": 62133,
+      "codepoint": 61588,
       "source": "svg/lemon-o.svg"
     },
+    "less": {
+      "codepoint": 62493,
+      "source": "svg/placeholder.svg"
+    },
     "level-down": {
-      "codepoint": 62134,
+      "codepoint": 61769,
       "source": "svg/level-down.svg"
     },
     "level-up": {
-      "codepoint": 62135,
+      "codepoint": 61768,
       "source": "svg/level-up.svg"
     },
     "liberapay": {
-      "codepoint": 62136,
+      "codepoint": 62185,
       "source": "svg/liberapay.svg"
     },
     "liberapay-square": {
-      "codepoint": 62137,
+      "codepoint": 62184,
       "source": "svg/liberapay-square.svg"
     },
     "life-ring": {
-      "codepoint": 62138,
+      "codepoint": 61901,
       "source": "svg/life-ring.svg"
     },
     "lightbulb-o": {
-      "codepoint": 62139,
+      "codepoint": 61675,
       "source": "svg/lightbulb-o.svg"
     },
     "line-chart": {
-      "codepoint": 62140,
+      "codepoint": 61953,
       "source": "svg/line-chart.svg"
     },
     "link": {
-      "codepoint": 62141,
+      "codepoint": 61633,
       "source": "svg/link.svg"
     },
     "linkedin": {
-      "codepoint": 62142,
+      "codepoint": 61665,
       "source": "svg/linkedin.svg"
     },
     "linkedin-square": {
-      "codepoint": 62143,
+      "codepoint": 61580,
       "source": "svg/linkedin-square.svg"
     },
     "linode": {
-      "codepoint": 62144,
+      "codepoint": 62136,
       "source": "svg/linode.svg"
     },
     "linux": {
-      "codepoint": 62145,
+      "codepoint": 61820,
       "source": "svg/linux.svg"
     },
+    "lira-sign": {
+      "codepoint": 61845,
+      "source": "svg/placeholder.svg"
+    },
     "list": {
-      "codepoint": 62146,
+      "codepoint": 61498,
       "source": "svg/list.svg"
     },
     "list-alt": {
-      "codepoint": 62147,
+      "codepoint": 61474,
       "source": "svg/list-alt.svg"
     },
     "list-ol": {
-      "codepoint": 62148,
+      "codepoint": 61643,
       "source": "svg/list-ol.svg"
     },
     "list-ul": {
-      "codepoint": 62149,
+      "codepoint": 61642,
       "source": "svg/list-ul.svg"
     },
     "location-arrow": {
-      "codepoint": 62150,
+      "codepoint": 61732,
       "source": "svg/location-arrow.svg"
     },
     "lock": {
-      "codepoint": 62151,
+      "codepoint": 61475,
       "source": "svg/lock.svg"
     },
+    "lock-open": {
+      "codepoint": 62401,
+      "source": "svg/unlock.svg"
+    },
     "long-arrow-down": {
-      "codepoint": 62152,
+      "codepoint": 61813,
       "source": "svg/long-arrow-down.svg"
     },
     "long-arrow-left": {
-      "codepoint": 62153,
+      "codepoint": 61815,
       "source": "svg/long-arrow-left.svg"
     },
     "long-arrow-right": {
-      "codepoint": 62154,
+      "codepoint": 61816,
       "source": "svg/long-arrow-right.svg"
     },
     "long-arrow-up": {
-      "codepoint": 62155,
+      "codepoint": 61814,
       "source": "svg/long-arrow-up.svg"
     },
     "low-vision": {
-      "codepoint": 62156,
+      "codepoint": 62120,
       "source": "svg/low-vision.svg"
     },
     "magic": {
-      "codepoint": 62157,
+      "codepoint": 61648,
       "source": "svg/magic.svg"
     },
     "magnet": {
-      "codepoint": 62158,
+      "codepoint": 61558,
       "source": "svg/magnet.svg"
     },
     "male": {
-      "codepoint": 62159,
+      "codepoint": 61827,
       "source": "svg/male.svg"
     },
     "map": {
-      "codepoint": 62160,
+      "codepoint": 62073,
       "source": "svg/map.svg"
     },
     "map-marker": {
-      "codepoint": 62161,
+      "codepoint": 61505,
       "source": "svg/map-marker.svg"
     },
     "map-o": {
-      "codepoint": 62162,
+      "codepoint": 62072,
       "source": "svg/map-o.svg"
     },
     "map-pin": {
-      "codepoint": 62163,
+      "codepoint": 62070,
       "source": "svg/map-pin.svg"
     },
     "map-signs": {
-      "codepoint": 62164,
+      "codepoint": 62071,
       "source": "svg/map-signs.svg"
     },
     "mariadb": {
-      "codepoint": 62165,
+      "codepoint": 62290,
       "source": "svg/mariadb.svg"
     },
     "markdown": {
-      "codepoint": 62166,
+      "codepoint": 62991,
       "source": "svg/markdown.svg"
     },
     "mars": {
-      "codepoint": 62167,
+      "codepoint": 61986,
       "source": "svg/mars.svg"
     },
     "mars-double": {
-      "codepoint": 62168,
+      "codepoint": 61991,
       "source": "svg/mars-double.svg"
     },
     "mars-stroke": {
-      "codepoint": 62169,
+      "codepoint": 61993,
       "source": "svg/mars-stroke.svg"
     },
     "mars-stroke-h": {
-      "codepoint": 62170,
+      "codepoint": 61995,
       "source": "svg/mars-stroke-h.svg"
     },
     "mars-stroke-v": {
-      "codepoint": 62171,
+      "codepoint": 61994,
       "source": "svg/mars-stroke-v.svg"
     },
     "mastodon": {
-      "codepoint": 62172,
+      "codepoint": 62710,
       "source": "svg/mastodon.svg"
     },
     "mastodon-alt": {
-      "codepoint": 62173,
+      "codepoint": 62178,
       "source": "svg/mastodon-alt.svg"
     },
     "mastodon-square": {
-      "codepoint": 62174,
+      "codepoint": 62208,
       "source": "svg/mastodon-square.svg"
     },
     "matrix-org": {
-      "codepoint": 62175,
+      "codepoint": 62227,
       "source": "svg/matrix-org.svg"
     },
     "maxcdn": {
-      "codepoint": 62176,
+      "codepoint": 61750,
       "source": "svg/maxcdn.svg"
     },
+    "maximize": {
+      "codepoint": 62238,
+      "source": "svg/arrows-alt.svg"
+    },
     "meanpath": {
-      "codepoint": 62177,
+      "codepoint": 61964,
       "source": "svg/meanpath.svg"
     },
     "medium": {
-      "codepoint": 62178,
+      "codepoint": 62010,
       "source": "svg/medium.svg"
     },
     "medium-square": {
-      "codepoint": 62179,
+      "codepoint": 62200,
       "source": "svg/medium-square.svg"
     },
     "medkit": {
-      "codepoint": 62180,
+      "codepoint": 61690,
       "source": "svg/medkit.svg"
     },
     "meetup": {
-      "codepoint": 62181,
+      "codepoint": 62176,
       "source": "svg/meetup.svg"
     },
     "meh-o": {
-      "codepoint": 62182,
+      "codepoint": 61722,
       "source": "svg/meh-o.svg"
     },
     "mercury": {
-      "codepoint": 62183,
+      "codepoint": 61987,
       "source": "svg/mercury.svg"
     },
     "microchip": {
-      "codepoint": 62184,
+      "codepoint": 62171,
       "source": "svg/microchip.svg"
     },
     "microphone": {
-      "codepoint": 62185,
+      "codepoint": 61744,
       "source": "svg/microphone.svg"
     },
     "microphone-slash": {
-      "codepoint": 62186,
+      "codepoint": 61745,
       "source": "svg/microphone-slash.svg"
     },
     "minus": {
-      "codepoint": 62187,
+      "codepoint": 61544,
       "source": "svg/minus.svg"
     },
     "minus-circle": {
-      "codepoint": 62188,
+      "codepoint": 61526,
       "source": "svg/minus-circle.svg"
     },
     "minus-square": {
-      "codepoint": 62189,
+      "codepoint": 61766,
       "source": "svg/minus-square.svg"
     },
     "minus-square-o": {
-      "codepoint": 62190,
+      "codepoint": 61767,
       "source": "svg/minus-square-o.svg"
     },
     "mixcloud": {
-      "codepoint": 62191,
+      "codepoint": 62089,
       "source": "svg/mixcloud.svg"
     },
     "mobile": {
-      "codepoint": 62192,
+      "codepoint": 61707,
       "source": "svg/mobile.svg"
     },
     "modx": {
-      "codepoint": 62193,
+      "codepoint": 62085,
       "source": "svg/modx.svg"
     },
     "money": {
-      "codepoint": 62194,
+      "codepoint": 61654,
       "source": "svg/money.svg"
     },
     "moon": {
-      "codepoint": 62195,
+      "codepoint": 62247,
       "source": "svg/moon.svg"
     },
     "moon-o": {
-      "codepoint": 62196,
+      "codepoint": 61830,
       "source": "svg/moon-o.svg"
     },
     "motorcycle": {
-      "codepoint": 62197,
+      "codepoint": 61980,
       "source": "svg/motorcycle.svg"
     },
     "mouse-pointer": {
-      "codepoint": 62198,
+      "codepoint": 62021,
       "source": "svg/mouse-pointer.svg"
     },
     "mumble": {
-      "codepoint": 62199,
+      "codepoint": 61455,
       "source": "svg/mumble.svg"
     },
     "music": {
-      "codepoint": 62200,
+      "codepoint": 61441,
       "source": "svg/music.svg"
     },
     "mysql": {
-      "codepoint": 62201,
+      "codepoint": 62292,
       "source": "svg/mysql.svg"
     },
     "neuter": {
-      "codepoint": 62202,
+      "codepoint": 61996,
       "source": "svg/neuter.svg"
     },
+    "new-sheqel-sign": {
+      "codepoint": 8362,
+      "source": "svg/ils.svg"
+    },
     "newspaper-o": {
-      "codepoint": 62203,
+      "codepoint": 61930,
       "source": "svg/newspaper-o.svg"
     },
     "nextcloud": {
-      "codepoint": 62204,
+      "codepoint": 62214,
       "source": "svg/nextcloud.svg"
     },
     "nextcloud-square": {
-      "codepoint": 62205,
+      "codepoint": 62215,
       "source": "svg/nextcloud-square.svg"
     },
+    "nim": {
+      "codepoint": 61628,
+      "source": "svg/nim.svg"
+    },
     "nodejs": {
-      "codepoint": 62206,
+      "codepoint": 62216,
       "source": "svg/nodejs.svg"
     },
     "nordcast": {
-      "codepoint": 62207,
+      "codepoint": 62293,
       "source": "svg/nordcast.svg"
     },
     "note-com": {
-      "codepoint": 62208,
+      "codepoint": 61503,
       "source": "svg/note-com.svg"
     },
     "object-group": {
-      "codepoint": 62209,
+      "codepoint": 62023,
       "source": "svg/object-group.svg"
     },
     "object-ungroup": {
-      "codepoint": 62210,
+      "codepoint": 62024,
       "source": "svg/object-ungroup.svg"
     },
     "odnoklassniki": {
-      "codepoint": 62211,
+      "codepoint": 62051,
       "source": "svg/odnoklassniki.svg"
     },
     "odnoklassniki-square": {
-      "codepoint": 62212,
+      "codepoint": 62052,
       "source": "svg/odnoklassniki-square.svg"
     },
     "open-collective": {
-      "codepoint": 62213,
+      "codepoint": 62262,
       "source": "svg/open-collective.svg"
     },
     "opencart": {
-      "codepoint": 62214,
+      "codepoint": 62013,
       "source": "svg/opencart.svg"
     },
     "openid": {
-      "codepoint": 62215,
+      "codepoint": 61851,
       "source": "svg/openid.svg"
     },
     "opera": {
-      "codepoint": 62216,
+      "codepoint": 62058,
       "source": "svg/opera.svg"
     },
     "optin-monster": {
-      "codepoint": 62217,
+      "codepoint": 62012,
       "source": "svg/optin-monster.svg"
     },
     "orcid": {
-      "codepoint": 62218,
+      "codepoint": 63698,
       "source": "svg/orcid.svg"
     },
     "osi": {
-      "codepoint": 62219,
+      "codepoint": 62490,
       "source": "svg/osi.svg"
     },
     "outdent": {
-      "codepoint": 62220,
+      "codepoint": 61499,
       "source": "svg/outdent.svg"
     },
     "pagelines": {
-      "codepoint": 62221,
+      "codepoint": 61836,
       "source": "svg/pagelines.svg"
     },
     "paint-brush": {
-      "codepoint": 62222,
+      "codepoint": 61948,
       "source": "svg/paint-brush.svg"
     },
     "paper-plane": {
-      "codepoint": 62223,
+      "codepoint": 61912,
       "source": "svg/paper-plane.svg"
     },
     "paper-plane-o": {
-      "codepoint": 62224,
+      "codepoint": 61913,
       "source": "svg/paper-plane-o.svg"
     },
     "paperclip": {
-      "codepoint": 62225,
+      "codepoint": 61638,
       "source": "svg/paperclip.svg"
     },
     "paragraph": {
-      "codepoint": 62226,
+      "codepoint": 61917,
       "source": "svg/paragraph.svg"
     },
+    "paste": {
+      "codepoint": 61674,
+      "source": "svg/paste.svg"
+    },
     "patreon": {
-      "codepoint": 62227,
+      "codepoint": 62425,
       "source": "svg/patreon.svg"
     },
     "pause": {
-      "codepoint": 62228,
+      "codepoint": 61516,
       "source": "svg/pause.svg"
     },
     "pause-circle": {
-      "codepoint": 62229,
+      "codepoint": 62091,
       "source": "svg/pause-circle.svg"
     },
     "pause-circle-o": {
-      "codepoint": 62230,
+      "codepoint": 62092,
       "source": "svg/pause-circle-o.svg"
     },
     "paw": {
-      "codepoint": 62231,
+      "codepoint": 61872,
       "source": "svg/paw.svg"
     },
     "paypal": {
-      "codepoint": 62232,
+      "codepoint": 61933,
       "source": "svg/paypal.svg"
     },
     "peertube": {
-      "codepoint": 62233,
+      "codepoint": 62180,
       "source": "svg/peertube.svg"
     },
+    "pen": {
+      "codepoint": 62212,
+      "source": "svg/placeholder.svg"
+    },
+    "pen-clip": {
+      "codepoint": 62213,
+      "source": "svg/placeholder.svg"
+    },
     "pencil": {
-      "codepoint": 62234,
+      "codepoint": 61504,
+      "source": "svg/pencil.svg"
+    },
+    "pencil-alt": {
+      "codepoint": 62211,
       "source": "svg/pencil.svg"
     },
     "pencil-square": {
-      "codepoint": 62235,
+      "codepoint": 61771,
       "source": "svg/pencil-square.svg"
     },
     "pencil-square-o": {
-      "codepoint": 62236,
+      "codepoint": 61508,
       "source": "svg/pencil-square-o.svg"
     },
     "percent": {
-      "codepoint": 62237,
+      "codepoint": 62101,
+      "source": "svg/percent.svg"
+    },
+    "percent-sign": {
+      "codepoint": 37,
       "source": "svg/percent.svg"
     },
     "phone": {
-      "codepoint": 62238,
+      "codepoint": 61589,
       "source": "svg/phone.svg"
     },
     "phone-square": {
-      "codepoint": 62239,
+      "codepoint": 61592,
       "source": "svg/phone-square.svg"
     },
     "php": {
-      "codepoint": 62240,
+      "codepoint": 61629,
       "source": "svg/php.svg"
     },
+    "php-o": {
+      "codepoint": 62551,
+      "source": "svg/php-o.svg"
+    },
     "picture-o": {
-      "codepoint": 62241,
+      "codepoint": 61502,
       "source": "svg/picture-o.svg"
     },
     "pie-chart": {
-      "codepoint": 62242,
+      "codepoint": 61952,
       "source": "svg/pie-chart.svg"
     },
+    "pied-piper": {
+      "codepoint": 62126,
+      "source": "svg/placeholder.svg"
+    },
+    "pied-piper-alt": {
+      "codepoint": 61864,
+      "source": "svg/placeholder.svg"
+    },
+    "pied-piper-pp": {
+      "codepoint": 61863,
+      "source": "svg/placeholder.svg"
+    },
     "pinterest": {
-      "codepoint": 62243,
+      "codepoint": 61650,
       "source": "svg/pinterest.svg"
     },
     "pinterest-p": {
-      "codepoint": 62244,
+      "codepoint": 62001,
       "source": "svg/pinterest-p.svg"
     },
     "pinterest-square": {
-      "codepoint": 62245,
+      "codepoint": 61651,
       "source": "svg/pinterest-square.svg"
     },
     "pixelfed": {
-      "codepoint": 62246,
+      "codepoint": 62228,
       "source": "svg/pixelfed.svg"
     },
     "plane": {
-      "codepoint": 62247,
+      "codepoint": 61554,
       "source": "svg/plane.svg"
     },
     "play": {
-      "codepoint": 62248,
+      "codepoint": 61515,
       "source": "svg/play.svg"
     },
     "play-circle": {
-      "codepoint": 62249,
+      "codepoint": 61764,
       "source": "svg/play-circle.svg"
     },
     "play-circle-o": {
-      "codepoint": 62250,
+      "codepoint": 61469,
       "source": "svg/play-circle-o.svg"
     },
     "pleroma": {
-      "codepoint": 62251,
+      "codepoint": 62244,
       "source": "svg/pleroma.svg"
     },
     "plug": {
-      "codepoint": 62252,
+      "codepoint": 61926,
       "source": "svg/plug.svg"
     },
     "plume": {
-      "codepoint": 62253,
+      "codepoint": 62294,
       "source": "svg/plume.svg"
     },
     "plus": {
-      "codepoint": 62254,
+      "codepoint": 61543,
       "source": "svg/plus.svg"
     },
     "plus-circle": {
-      "codepoint": 62255,
+      "codepoint": 61525,
       "source": "svg/plus-circle.svg"
     },
     "plus-square": {
-      "codepoint": 62256,
+      "codepoint": 61694,
       "source": "svg/plus-square.svg"
     },
     "plus-square-o": {
-      "codepoint": 62257,
+      "codepoint": 61846,
       "source": "svg/plus-square-o.svg"
     },
     "podcast": {
-      "codepoint": 62258,
+      "codepoint": 62158,
       "source": "svg/podcast.svg"
     },
+    "poo": {
+      "codepoint": 62206,
+      "source": "svg/placeholder.svg"
+    },
     "postgresql": {
-      "codepoint": 62259,
+      "codepoint": 62295,
       "source": "svg/postgresql.svg"
     },
+    "pound-sign": {
+      "codepoint": 163,
+      "source": "svg/gbp.svg"
+    },
     "power-off": {
-      "codepoint": 62260,
+      "codepoint": 61457,
       "source": "svg/power-off.svg"
     },
     "print": {
-      "codepoint": 62261,
+      "codepoint": 61487,
       "source": "svg/print.svg"
     },
     "product-hunt": {
-      "codepoint": 62262,
+      "codepoint": 62088,
       "source": "svg/product-hunt.svg"
     },
     "proftpd": {
-      "codepoint": 62263,
+      "codepoint": 62253,
       "source": "svg/proftpd.svg"
     },
     "puzzle-piece": {
-      "codepoint": 62264,
+      "codepoint": 61742,
       "source": "svg/puzzle-piece.svg"
     },
     "python": {
-      "codepoint": 62265,
+      "codepoint": 62434,
       "source": "svg/python.svg"
     },
     "qiita": {
-      "codepoint": 62266,
+      "codepoint": 61535,
       "source": "svg/qiita.svg"
     },
     "qq": {
-      "codepoint": 62267,
+      "codepoint": 61910,
       "source": "svg/qq.svg"
     },
     "qrcode": {
-      "codepoint": 62268,
+      "codepoint": 61481,
       "source": "svg/qrcode.svg"
     },
     "question": {
-      "codepoint": 62269,
+      "codepoint": 61736,
       "source": "svg/question.svg"
     },
     "question-circle": {
-      "codepoint": 62270,
+      "codepoint": 61529,
       "source": "svg/question-circle.svg"
     },
     "question-circle-o": {
-      "codepoint": 62271,
+      "codepoint": 62108,
       "source": "svg/question-circle-o.svg"
     },
     "quora": {
-      "codepoint": 62272,
+      "codepoint": 62148,
       "source": "svg/quora.svg"
     },
     "quote-left": {
-      "codepoint": 62273,
+      "codepoint": 61709,
       "source": "svg/quote-left.svg"
     },
     "quote-right": {
-      "codepoint": 62274,
+      "codepoint": 61710,
       "source": "svg/quote-right.svg"
     },
+    "r-project": {
+      "codepoint": 62711,
+      "source": "svg/placeholder.svg"
+    },
     "random": {
-      "codepoint": 62275,
+      "codepoint": 61556,
       "source": "svg/random.svg"
     },
+    "raspberry-pi": {
+      "codepoint": 63419,
+      "source": "svg/raspberry-pi.svg"
+    },
     "ravelry": {
-      "codepoint": 62276,
+      "codepoint": 62169,
       "source": "svg/ravelry.svg"
     },
     "react": {
-      "codepoint": 62277,
+      "codepoint": 62491,
       "source": "svg/react.svg"
     },
     "rebel": {
-      "codepoint": 62278,
+      "codepoint": 61904,
       "source": "svg/rebel.svg"
     },
     "recycle": {
-      "codepoint": 62279,
+      "codepoint": 61880,
       "source": "svg/recycle.svg"
     },
     "reddit": {
-      "codepoint": 62280,
+      "codepoint": 61857,
       "source": "svg/reddit.svg"
     },
     "reddit-alien": {
-      "codepoint": 62281,
+      "codepoint": 62081,
       "source": "svg/reddit-alien.svg"
     },
     "reddit-square": {
-      "codepoint": 62282,
+      "codepoint": 61858,
       "source": "svg/reddit-square.svg"
     },
     "refresh": {
-      "codepoint": 62283,
+      "codepoint": 61473,
       "source": "svg/refresh.svg"
     },
     "registered": {
-      "codepoint": 62284,
+      "codepoint": 62045,
+      "source": "svg/registered.svg"
+    },
+    "registered-sign": {
+      "codepoint": 174,
       "source": "svg/registered.svg"
     },
     "renren": {
-      "codepoint": 62285,
+      "codepoint": 61835,
       "source": "svg/renren.svg"
     },
     "repeat": {
-      "codepoint": 62286,
+      "codepoint": 61470,
       "source": "svg/repeat.svg"
     },
+    "repeat-alt": {
+      "codepoint": 62307,
+      "source": "svg/refresh.svg"
+    },
     "reply": {
-      "codepoint": 62287,
+      "codepoint": 61714,
       "source": "svg/reply.svg"
     },
     "reply-all": {
-      "codepoint": 62288,
+      "codepoint": 61730,
       "source": "svg/reply-all.svg"
     },
     "researchgate": {
-      "codepoint": 62289,
+      "codepoint": 62712,
       "source": "svg/researchgate.svg"
     },
+    "reserved-f8d0": {
+      "codepoint": 63696,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d1": {
+      "codepoint": 63697,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d3": {
+      "codepoint": 63699,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d4": {
+      "codepoint": 63700,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d5": {
+      "codepoint": 63701,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d6": {
+      "codepoint": 63702,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d7": {
+      "codepoint": 63703,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d8": {
+      "codepoint": 63704,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8d9": {
+      "codepoint": 63705,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8da": {
+      "codepoint": 63706,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8db": {
+      "codepoint": 63707,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8dc": {
+      "codepoint": 63708,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8dd": {
+      "codepoint": 63709,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8de": {
+      "codepoint": 63710,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8df": {
+      "codepoint": 63711,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e0": {
+      "codepoint": 63712,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e1": {
+      "codepoint": 63713,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e2": {
+      "codepoint": 63714,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e3": {
+      "codepoint": 63715,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e4": {
+      "codepoint": 63716,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e5": {
+      "codepoint": 63717,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e6": {
+      "codepoint": 63718,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e7": {
+      "codepoint": 63719,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e8": {
+      "codepoint": 63720,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8e9": {
+      "codepoint": 63721,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8ea": {
+      "codepoint": 63722,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8eb": {
+      "codepoint": 63723,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8ec": {
+      "codepoint": 63724,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8ed": {
+      "codepoint": 63725,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8ee": {
+      "codepoint": 63726,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8ef": {
+      "codepoint": 63727,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f0": {
+      "codepoint": 63728,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f1": {
+      "codepoint": 63729,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f2": {
+      "codepoint": 63730,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f3": {
+      "codepoint": 63731,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f4": {
+      "codepoint": 63732,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f5": {
+      "codepoint": 63733,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f6": {
+      "codepoint": 63734,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f7": {
+      "codepoint": 63735,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f8": {
+      "codepoint": 63736,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8f9": {
+      "codepoint": 63737,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8fb": {
+      "codepoint": 63739,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8fc": {
+      "codepoint": 63740,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8fd": {
+      "codepoint": 63741,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8fe": {
+      "codepoint": 63742,
+      "source": "svg/placeholder.svg"
+    },
+    "reserved-f8ff": {
+      "codepoint": 63743,
+      "source": "svg/placeholder.svg"
+    },
     "retweet": {
-      "codepoint": 62290,
+      "codepoint": 61561,
       "source": "svg/retweet.svg"
     },
+    "right-from-bracket": {
+      "codepoint": 62197,
+      "source": "svg/sign-out.svg"
+    },
+    "right-left": {
+      "codepoint": 62306,
+      "source": "svg/exchange.svg"
+    },
+    "right-long": {
+      "codepoint": 62219,
+      "source": "svg/arrow-right.svg"
+    },
+    "right-to-bracket": {
+      "codepoint": 62198,
+      "source": "svg/sign-in.svg"
+    },
     "road": {
-      "codepoint": 62291,
+      "codepoint": 61464,
       "source": "svg/road.svg"
     },
     "rocket": {
-      "codepoint": 62292,
+      "codepoint": 61749,
       "source": "svg/rocket.svg"
     },
+    "rotate": {
+      "codepoint": 62193,
+      "source": "svg/refresh.svg"
+    },
+    "rotate-left": {
+      "codepoint": 62186,
+      "source": "svg/undo.svg"
+    },
+    "rotate-right": {
+      "codepoint": 62201,
+      "source": "svg/repeat.svg"
+    },
     "rss": {
-      "codepoint": 62293,
+      "codepoint": 61598,
       "source": "svg/rss.svg"
     },
     "rss-square": {
-      "codepoint": 62294,
+      "codepoint": 61763,
       "source": "svg/rss-square.svg"
     },
     "rub": {
-      "codepoint": 62295,
+      "codepoint": 61784,
       "source": "svg/rub.svg"
     },
+    "ruble-sign": {
+      "codepoint": 8381,
+      "source": "svg/rub.svg"
+    },
+    "rust": {
+      "codepoint": 57466,
+      "source": "svg/rust.svg"
+    },
     "safari": {
-      "codepoint": 62296,
+      "codepoint": 62055,
       "source": "svg/safari.svg"
     },
     "sass": {
-      "codepoint": 62297,
+      "codepoint": 62291,
       "source": "svg/sass.svg"
     },
     "sass-alt": {
-      "codepoint": 62298,
+      "codepoint": 62494,
       "source": "svg/sass-alt.svg"
     },
     "scissors": {
-      "codepoint": 62299,
+      "codepoint": 61636,
       "source": "svg/scissors.svg"
     },
     "scribd": {
-      "codepoint": 62300,
+      "codepoint": 62090,
       "source": "svg/scribd.svg"
     },
     "scuttlebutt": {
-      "codepoint": 62301,
+      "codepoint": 61621,
       "source": "svg/scuttlebutt.svg"
     },
     "search": {
-      "codepoint": 62302,
+      "codepoint": 61442,
       "source": "svg/search.svg"
     },
     "search-minus": {
-      "codepoint": 62303,
+      "codepoint": 61456,
       "source": "svg/search-minus.svg"
     },
     "search-plus": {
-      "codepoint": 62304,
+      "codepoint": 61454,
       "source": "svg/search-plus.svg"
     },
     "sellsy": {
-      "codepoint": 62305,
+      "codepoint": 61971,
       "source": "svg/sellsy.svg"
     },
     "server": {
-      "codepoint": 62306,
+      "codepoint": 62003,
       "source": "svg/server.svg"
     },
     "shaarli": {
-      "codepoint": 62307,
+      "codepoint": 61625,
       "source": "svg/shaarli.svg"
     },
     "shaarli-o": {
-      "codepoint": 62308,
+      "codepoint": 61626,
       "source": "svg/shaarli-o.svg"
     },
     "share": {
-      "codepoint": 62309,
+      "codepoint": 61540,
       "source": "svg/share.svg"
     },
     "share-alt": {
-      "codepoint": 62310,
+      "codepoint": 61920,
       "source": "svg/share-alt.svg"
     },
     "share-alt-square": {
-      "codepoint": 62311,
+      "codepoint": 61921,
       "source": "svg/share-alt-square.svg"
     },
     "share-square": {
-      "codepoint": 62312,
+      "codepoint": 61773,
       "source": "svg/share-square.svg"
     },
     "share-square-o": {
-      "codepoint": 62313,
+      "codepoint": 61509,
       "source": "svg/share-square-o.svg"
     },
     "shield": {
-      "codepoint": 62314,
+      "codepoint": 61746,
       "source": "svg/shield.svg"
     },
     "ship": {
-      "codepoint": 62315,
+      "codepoint": 61978,
       "source": "svg/ship.svg"
     },
     "shirtsinbulk": {
-      "codepoint": 62316,
+      "codepoint": 61972,
       "source": "svg/shirtsinbulk.svg"
     },
     "shopping-bag": {
-      "codepoint": 62317,
+      "codepoint": 62096,
       "source": "svg/shopping-bag.svg"
     },
     "shopping-basket": {
-      "codepoint": 62318,
+      "codepoint": 62097,
       "source": "svg/shopping-basket.svg"
     },
     "shopping-cart": {
-      "codepoint": 62319,
+      "codepoint": 61562,
       "source": "svg/shopping-cart.svg"
     },
     "shower": {
-      "codepoint": 62320,
+      "codepoint": 62156,
       "source": "svg/shower.svg"
     },
     "sign-in": {
-      "codepoint": 62321,
+      "codepoint": 61584,
       "source": "svg/sign-in.svg"
     },
     "sign-language": {
-      "codepoint": 62322,
+      "codepoint": 62119,
       "source": "svg/sign-language.svg"
     },
     "sign-out": {
-      "codepoint": 62323,
+      "codepoint": 61579,
       "source": "svg/sign-out.svg"
     },
     "signal": {
-      "codepoint": 62324,
+      "codepoint": 61458,
       "source": "svg/signal.svg"
     },
     "signalapp": {
-      "codepoint": 62325,
+      "codepoint": 61620,
       "source": "svg/signalapp.svg"
     },
     "simplybuilt": {
-      "codepoint": 62326,
+      "codepoint": 61973,
       "source": "svg/simplybuilt.svg"
     },
     "sitemap": {
-      "codepoint": 62327,
+      "codepoint": 61672,
       "source": "svg/sitemap.svg"
     },
     "skate": {
-      "codepoint": 62328,
+      "codepoint": 63429,
       "source": "svg/skate.svg"
     },
     "sketchfab": {
-      "codepoint": 62329,
+      "codepoint": 62289,
       "source": "svg/sketchfab.svg"
     },
     "skyatlas": {
-      "codepoint": 62330,
+      "codepoint": 61974,
       "source": "svg/skyatlas.svg"
     },
     "skype": {
-      "codepoint": 62331,
+      "codepoint": 61822,
       "source": "svg/skype.svg"
     },
     "slack": {
-      "codepoint": 62332,
+      "codepoint": 61848,
       "source": "svg/slack.svg"
     },
     "sliders": {
-      "codepoint": 62333,
+      "codepoint": 61918,
       "source": "svg/sliders.svg"
     },
     "slideshare": {
-      "codepoint": 62334,
+      "codepoint": 61927,
       "source": "svg/slideshare.svg"
     },
     "smile-o": {
-      "codepoint": 62335,
+      "codepoint": 61720,
       "source": "svg/smile-o.svg"
     },
     "snapchat": {
-      "codepoint": 62336,
+      "codepoint": 62123,
       "source": "svg/snapchat.svg"
     },
     "snapchat-ghost": {
-      "codepoint": 62337,
+      "codepoint": 62124,
       "source": "svg/snapchat-ghost.svg"
     },
     "snapchat-square": {
-      "codepoint": 62338,
+      "codepoint": 62125,
       "source": "svg/snapchat-square.svg"
     },
     "snowdrift": {
-      "codepoint": 62339,
+      "codepoint": 61624,
       "source": "svg/snowdrift.svg"
     },
     "snowflake-o": {
-      "codepoint": 62340,
+      "codepoint": 62172,
       "source": "svg/snowflake-o.svg"
     },
     "social-home": {
-      "codepoint": 62341,
+      "codepoint": 62188,
       "source": "svg/social-home.svg"
     },
     "sort": {
-      "codepoint": 62342,
+      "codepoint": 61660,
       "source": "svg/sort.svg"
     },
     "sort-alpha-asc": {
-      "codepoint": 62343,
+      "codepoint": 61789,
       "source": "svg/sort-alpha-asc.svg"
     },
     "sort-alpha-desc": {
-      "codepoint": 62344,
+      "codepoint": 61790,
       "source": "svg/sort-alpha-desc.svg"
     },
     "sort-amount-asc": {
-      "codepoint": 62345,
+      "codepoint": 61792,
       "source": "svg/sort-amount-asc.svg"
     },
     "sort-amount-desc": {
-      "codepoint": 62346,
+      "codepoint": 61793,
       "source": "svg/sort-amount-desc.svg"
     },
     "sort-asc": {
-      "codepoint": 62347,
+      "codepoint": 61662,
       "source": "svg/sort-asc.svg"
     },
     "sort-desc": {
-      "codepoint": 62348,
+      "codepoint": 61661,
       "source": "svg/sort-desc.svg"
     },
     "sort-numeric-asc": {
-      "codepoint": 62349,
+      "codepoint": 61794,
       "source": "svg/sort-numeric-asc.svg"
     },
     "sort-numeric-desc": {
-      "codepoint": 62350,
+      "codepoint": 61795,
       "source": "svg/sort-numeric-desc.svg"
     },
     "soundcloud": {
-      "codepoint": 62351,
+      "codepoint": 61886,
       "source": "svg/soundcloud.svg"
     },
     "sourcehut": {
-      "codepoint": 62352,
+      "codepoint": 61519,
       "source": "svg/sourcehut.svg"
     },
     "space-shuttle": {
-      "codepoint": 62353,
+      "codepoint": 61847,
       "source": "svg/space-shuttle.svg"
     },
     "spell-check": {
-      "codepoint": 62354,
+      "codepoint": 63633,
       "source": "svg/spell-check.svg"
     },
     "spinner": {
-      "codepoint": 62355,
+      "codepoint": 61712,
       "source": "svg/spinner.svg"
     },
     "spoon": {
-      "codepoint": 62356,
+      "codepoint": 61873,
       "source": "svg/spoon.svg"
     },
     "spotify": {
-      "codepoint": 62357,
+      "codepoint": 61884,
       "source": "svg/spotify.svg"
     },
     "square": {
-      "codepoint": 62358,
+      "codepoint": 61640,
       "source": "svg/square.svg"
     },
-    "square-o": {
+    "square-dribbble": {
       "codepoint": 62359,
+      "source": "svg/placeholder.svg"
+    },
+    "square-hacker-news": {
+      "codepoint": 62383,
+      "source": "svg/placeholder.svg"
+    },
+    "square-o": {
+      "codepoint": 61590,
       "source": "svg/square-o.svg"
     },
+    "square-up-right": {
+      "codepoint": 62304,
+      "source": "svg/placeholder.svg"
+    },
     "stack-exchange": {
-      "codepoint": 62360,
+      "codepoint": 61837,
       "source": "svg/stack-exchange.svg"
     },
     "stack-overflow": {
-      "codepoint": 62361,
+      "codepoint": 61804,
       "source": "svg/stack-overflow.svg"
     },
     "star": {
-      "codepoint": 62362,
+      "codepoint": 61445,
       "source": "svg/star.svg"
     },
     "star-half": {
-      "codepoint": 62363,
+      "codepoint": 61577,
       "source": "svg/star-half.svg"
     },
     "star-half-o": {
-      "codepoint": 62364,
+      "codepoint": 61731,
       "source": "svg/star-half-o.svg"
     },
     "star-o": {
-      "codepoint": 62365,
+      "codepoint": 61446,
       "source": "svg/star-o.svg"
     },
     "steam": {
-      "codepoint": 62366,
+      "codepoint": 61878,
       "source": "svg/steam.svg"
     },
     "steam-square": {
-      "codepoint": 62367,
+      "codepoint": 61879,
       "source": "svg/steam-square.svg"
     },
     "step-backward": {
-      "codepoint": 62368,
+      "codepoint": 61512,
       "source": "svg/step-backward.svg"
     },
     "step-forward": {
-      "codepoint": 62369,
+      "codepoint": 61521,
       "source": "svg/step-forward.svg"
     },
     "stethoscope": {
-      "codepoint": 62370,
+      "codepoint": 61681,
       "source": "svg/stethoscope.svg"
     },
     "sticky-note": {
-      "codepoint": 62371,
+      "codepoint": 62025,
       "source": "svg/sticky-note.svg"
     },
     "sticky-note-o": {
-      "codepoint": 62372,
+      "codepoint": 62026,
       "source": "svg/sticky-note-o.svg"
     },
     "stop": {
-      "codepoint": 62373,
+      "codepoint": 61517,
       "source": "svg/stop.svg"
     },
     "stop-circle": {
-      "codepoint": 62374,
+      "codepoint": 62093,
       "source": "svg/stop-circle.svg"
     },
     "stop-circle-o": {
-      "codepoint": 62375,
+      "codepoint": 62094,
       "source": "svg/stop-circle-o.svg"
     },
+    "stopwatch": {
+      "codepoint": 62194,
+      "source": "svg/placeholder.svg"
+    },
     "strava": {
-      "codepoint": 62376,
+      "codepoint": 62504,
       "source": "svg/strava.svg"
     },
     "street-view": {
-      "codepoint": 62377,
+      "codepoint": 61981,
       "source": "svg/street-view.svg"
     },
     "strikethrough": {
-      "codepoint": 62378,
+      "codepoint": 61644,
       "source": "svg/strikethrough.svg"
     },
     "stumbleupon": {
-      "codepoint": 62379,
+      "codepoint": 61860,
       "source": "svg/stumbleupon.svg"
     },
     "stumbleupon-circle": {
-      "codepoint": 62380,
+      "codepoint": 61859,
       "source": "svg/stumbleupon-circle.svg"
     },
     "subscript": {
-      "codepoint": 62381,
+      "codepoint": 61740,
       "source": "svg/subscript.svg"
     },
     "subway": {
-      "codepoint": 62382,
+      "codepoint": 62009,
       "source": "svg/subway.svg"
     },
     "suitcase": {
-      "codepoint": 62383,
+      "codepoint": 61682,
       "source": "svg/suitcase.svg"
     },
     "sun": {
-      "codepoint": 62384,
+      "codepoint": 62249,
       "source": "svg/sun.svg"
     },
     "sun-o": {
-      "codepoint": 62385,
+      "codepoint": 61829,
       "source": "svg/sun-o.svg"
     },
     "superpowers": {
-      "codepoint": 62386,
+      "codepoint": 62173,
       "source": "svg/superpowers.svg"
     },
     "superscript": {
-      "codepoint": 62387,
+      "codepoint": 61739,
       "source": "svg/superscript.svg"
     },
     "syncthing": {
-      "codepoint": 62388,
+      "codepoint": 62225,
       "source": "svg/syncthing.svg"
     },
     "table": {
-      "codepoint": 62389,
+      "codepoint": 61646,
       "source": "svg/table.svg"
     },
     "tablet": {
-      "codepoint": 62390,
+      "codepoint": 61706,
       "source": "svg/tablet.svg"
     },
     "tachometer": {
-      "codepoint": 62391,
+      "codepoint": 61668,
       "source": "svg/tachometer.svg"
     },
     "tag": {
-      "codepoint": 62392,
+      "codepoint": 61483,
       "source": "svg/tag.svg"
     },
     "tags": {
-      "codepoint": 62393,
+      "codepoint": 61484,
       "source": "svg/tags.svg"
     },
     "tasks": {
-      "codepoint": 62394,
+      "codepoint": 61614,
       "source": "svg/tasks.svg"
     },
     "taxi": {
-      "codepoint": 62395,
+      "codepoint": 61882,
       "source": "svg/taxi.svg"
     },
     "telegram": {
-      "codepoint": 62396,
+      "codepoint": 62150,
       "source": "svg/telegram.svg"
     },
     "television": {
-      "codepoint": 62397,
+      "codepoint": 62060,
       "source": "svg/television.svg"
     },
     "tencent-weibo": {
-      "codepoint": 62398,
+      "codepoint": 61909,
       "source": "svg/tencent-weibo.svg"
     },
     "terminal": {
-      "codepoint": 62399,
+      "codepoint": 61728,
       "source": "svg/terminal.svg"
     },
     "tex": {
-      "codepoint": 62400,
+      "codepoint": 62286,
       "source": "svg/tex.svg"
     },
     "text-height": {
-      "codepoint": 62401,
+      "codepoint": 61492,
       "source": "svg/text-height.svg"
     },
     "text-width": {
-      "codepoint": 62402,
+      "codepoint": 61493,
       "source": "svg/text-width.svg"
     },
     "textpattern": {
-      "codepoint": 62403,
+      "codepoint": 62302,
       "source": "svg/textpattern.svg"
     },
     "th": {
-      "codepoint": 62404,
+      "codepoint": 61450,
       "source": "svg/th.svg"
     },
     "th-large": {
-      "codepoint": 62405,
+      "codepoint": 61449,
       "source": "svg/th-large.svg"
     },
     "th-list": {
-      "codepoint": 62406,
+      "codepoint": 61451,
       "source": "svg/th-list.svg"
     },
     "themeisle": {
-      "codepoint": 62407,
+      "codepoint": 62130,
       "source": "svg/themeisle.svg"
     },
     "thermometer-empty": {
-      "codepoint": 62408,
+      "codepoint": 62155,
       "source": "svg/thermometer-empty.svg"
     },
     "thermometer-full": {
-      "codepoint": 62409,
+      "codepoint": 62151,
       "source": "svg/thermometer-full.svg"
     },
     "thermometer-half": {
-      "codepoint": 62410,
+      "codepoint": 62153,
       "source": "svg/thermometer-half.svg"
     },
     "thermometer-quarter": {
-      "codepoint": 62411,
+      "codepoint": 62154,
       "source": "svg/thermometer-quarter.svg"
     },
     "thermometer-three-quarters": {
-      "codepoint": 62412,
+      "codepoint": 62152,
       "source": "svg/thermometer-three-quarters.svg"
     },
     "thumb-tack": {
-      "codepoint": 62413,
+      "codepoint": 61581,
       "source": "svg/thumb-tack.svg"
     },
     "thumbs-down": {
-      "codepoint": 62414,
+      "codepoint": 61797,
       "source": "svg/thumbs-down.svg"
     },
     "thumbs-o-down": {
-      "codepoint": 62415,
+      "codepoint": 61576,
       "source": "svg/thumbs-o-down.svg"
     },
     "thumbs-o-up": {
-      "codepoint": 62416,
+      "codepoint": 61575,
       "source": "svg/thumbs-o-up.svg"
     },
     "thumbs-up": {
-      "codepoint": 62417,
+      "codepoint": 61796,
       "source": "svg/thumbs-up.svg"
     },
     "ticket": {
-      "codepoint": 62418,
+      "codepoint": 61765,
       "source": "svg/ticket.svg"
     },
     "times": {
-      "codepoint": 62419,
+      "codepoint": 61453,
       "source": "svg/times.svg"
     },
     "times-circle": {
-      "codepoint": 62420,
+      "codepoint": 61527,
       "source": "svg/times-circle.svg"
     },
     "times-circle-o": {
-      "codepoint": 62421,
+      "codepoint": 61532,
       "source": "svg/times-circle-o.svg"
     },
     "tint": {
-      "codepoint": 62422,
+      "codepoint": 61507,
       "source": "svg/tint.svg"
     },
     "tipeee": {
-      "codepoint": 62423,
+      "codepoint": 62209,
       "source": "svg/tipeee.svg"
     },
     "toggle-off": {
-      "codepoint": 62424,
+      "codepoint": 61956,
       "source": "svg/toggle-off.svg"
     },
     "toggle-on": {
-      "codepoint": 62425,
+      "codepoint": 61957,
       "source": "svg/toggle-on.svg"
     },
     "tor-onion": {
-      "codepoint": 62426,
+      "codepoint": 62254,
       "source": "svg/tor-onion.svg"
     },
+    "trade-mark-sign": {
+      "codepoint": 8482,
+      "source": "svg/trademark.svg"
+    },
     "trademark": {
-      "codepoint": 62427,
+      "codepoint": 62044,
       "source": "svg/trademark.svg"
     },
     "train": {
-      "codepoint": 62428,
+      "codepoint": 62008,
       "source": "svg/train.svg"
     },
     "transgender": {
-      "codepoint": 62429,
+      "codepoint": 61988,
       "source": "svg/transgender.svg"
     },
     "transgender-alt": {
-      "codepoint": 62430,
+      "codepoint": 61989,
       "source": "svg/transgender-alt.svg"
     },
     "trash": {
-      "codepoint": 62431,
+      "codepoint": 61944,
       "source": "svg/trash.svg"
     },
+    "trash-can": {
+      "codepoint": 62189,
+      "source": "svg/trash-o.svg"
+    },
     "trash-o": {
-      "codepoint": 62432,
+      "codepoint": 61460,
       "source": "svg/trash-o.svg"
     },
     "tree": {
-      "codepoint": 62433,
+      "codepoint": 61883,
       "source": "svg/tree.svg"
     },
     "trello": {
-      "codepoint": 62434,
+      "codepoint": 61825,
       "source": "svg/trello.svg"
     },
     "tripadvisor": {
-      "codepoint": 62435,
+      "codepoint": 62050,
       "source": "svg/tripadvisor.svg"
     },
     "trophy": {
-      "codepoint": 62436,
+      "codepoint": 61585,
       "source": "svg/trophy.svg"
     },
     "truck": {
-      "codepoint": 62437,
+      "codepoint": 61649,
       "source": "svg/truck.svg"
     },
     "try": {
-      "codepoint": 62438,
+      "codepoint": 58043,
       "source": "svg/try.svg"
     },
     "tty": {
-      "codepoint": 62439,
+      "codepoint": 61924,
       "source": "svg/tty.svg"
     },
     "tumblr": {
-      "codepoint": 62440,
+      "codepoint": 61811,
       "source": "svg/tumblr.svg"
     },
     "tumblr-square": {
-      "codepoint": 62441,
+      "codepoint": 61812,
       "source": "svg/tumblr-square.svg"
     },
+    "turkish-lira-sign": {
+      "codepoint": 8378,
+      "source": "svg/try.svg"
+    },
+    "turn-down": {
+      "codepoint": 62398,
+      "source": "svg/level-down.svg"
+    },
+    "turn-up": {
+      "codepoint": 62399,
+      "source": "svg/level-up.svg"
+    },
     "twitch": {
-      "codepoint": 62442,
+      "codepoint": 61928,
       "source": "svg/twitch.svg"
     },
     "twitter": {
-      "codepoint": 62443,
+      "codepoint": 61593,
       "source": "svg/twitter.svg"
     },
     "twitter-square": {
-      "codepoint": 62444,
+      "codepoint": 61569,
       "source": "svg/twitter-square.svg"
     },
     "ubuntu": {
-      "codepoint": 62445,
+      "codepoint": 63455,
       "source": "svg/ubuntu.svg"
     },
     "umbrella": {
-      "codepoint": 62446,
+      "codepoint": 61673,
       "source": "svg/umbrella.svg"
     },
     "underline": {
-      "codepoint": 62447,
+      "codepoint": 61645,
       "source": "svg/underline.svg"
     },
     "undo": {
-      "codepoint": 62448,
+      "codepoint": 61666,
       "source": "svg/undo.svg"
     },
     "unity": {
-      "codepoint": 62449,
+      "codepoint": 57417,
       "source": "svg/unity.svg"
     },
     "universal-access": {
-      "codepoint": 62450,
+      "codepoint": 62106,
       "source": "svg/universal-access.svg"
     },
     "university": {
-      "codepoint": 62451,
+      "codepoint": 61852,
       "source": "svg/university.svg"
     },
     "unlock": {
-      "codepoint": 62452,
+      "codepoint": 61596,
       "source": "svg/unlock.svg"
     },
     "unlock-alt": {
-      "codepoint": 62453,
+      "codepoint": 61758,
       "source": "svg/unlock-alt.svg"
     },
     "unsplash": {
-      "codepoint": 62454,
+      "codepoint": 57468,
       "source": "svg/unsplash.svg"
     },
+    "up-long": {
+      "codepoint": 62220,
+      "source": "svg/arrow-up.svg"
+    },
     "upload": {
-      "codepoint": 62455,
+      "codepoint": 61587,
       "source": "svg/upload.svg"
     },
     "usb": {
-      "codepoint": 62456,
+      "codepoint": 62087,
       "source": "svg/usb.svg"
     },
     "usd": {
-      "codepoint": 62457,
+      "codepoint": 61781,
       "source": "svg/usd.svg"
     },
     "user": {
-      "codepoint": 62458,
+      "codepoint": 61447,
       "source": "svg/user.svg"
     },
     "user-circle": {
-      "codepoint": 62459,
+      "codepoint": 62141,
       "source": "svg/user-circle.svg"
     },
     "user-circle-o": {
-      "codepoint": 62460,
+      "codepoint": 62142,
       "source": "svg/user-circle-o.svg"
     },
     "user-md": {
-      "codepoint": 62461,
+      "codepoint": 61680,
       "source": "svg/user-md.svg"
     },
     "user-o": {
-      "codepoint": 62462,
+      "codepoint": 62144,
       "source": "svg/user-o.svg"
     },
     "user-plus": {
-      "codepoint": 62463,
+      "codepoint": 62004,
       "source": "svg/user-plus.svg"
     },
     "user-secret": {
-      "codepoint": 62464,
+      "codepoint": 61979,
       "source": "svg/user-secret.svg"
     },
     "user-times": {
-      "codepoint": 62465,
+      "codepoint": 62005,
       "source": "svg/user-times.svg"
     },
     "users": {
-      "codepoint": 62466,
+      "codepoint": 61632,
       "source": "svg/users.svg"
     },
+    "utensil-spoon": {
+      "codepoint": 62181,
+      "source": "svg/spoon.svg"
+    },
+    "utensils": {
+      "codepoint": 62183,
+      "source": "svg/cutlery.svg"
+    },
     "venus": {
-      "codepoint": 62467,
+      "codepoint": 61985,
       "source": "svg/venus.svg"
     },
     "venus-double": {
-      "codepoint": 62468,
+      "codepoint": 61990,
       "source": "svg/venus-double.svg"
     },
     "venus-mars": {
-      "codepoint": 62469,
+      "codepoint": 61992,
       "source": "svg/venus-mars.svg"
     },
     "viacoin": {
-      "codepoint": 62470,
+      "codepoint": 62007,
       "source": "svg/viacoin.svg"
     },
     "viadeo": {
-      "codepoint": 62471,
+      "codepoint": 62121,
       "source": "svg/viadeo.svg"
     },
     "viadeo-square": {
-      "codepoint": 62472,
+      "codepoint": 62122,
       "source": "svg/viadeo-square.svg"
     },
     "video-camera": {
-      "codepoint": 62473,
+      "codepoint": 61501,
       "source": "svg/video-camera.svg"
     },
     "vimeo": {
-      "codepoint": 62474,
+      "codepoint": 62077,
       "source": "svg/vimeo.svg"
     },
     "vimeo-square": {
-      "codepoint": 62475,
+      "codepoint": 61844,
       "source": "svg/vimeo-square.svg"
     },
     "vine": {
-      "codepoint": 62476,
+      "codepoint": 61898,
       "source": "svg/vine.svg"
     },
     "vk": {
-      "codepoint": 62477,
+      "codepoint": 61833,
       "source": "svg/vk.svg"
     },
     "volume-control-phone": {
-      "codepoint": 62478,
+      "codepoint": 62112,
       "source": "svg/volume-control-phone.svg"
     },
     "volume-down": {
-      "codepoint": 62479,
+      "codepoint": 61479,
       "source": "svg/volume-down.svg"
     },
     "volume-mute": {
-      "codepoint": 62480,
+      "codepoint": 63145,
       "source": "svg/volume-mute.svg"
     },
     "volume-off": {
-      "codepoint": 62481,
+      "codepoint": 61478,
       "source": "svg/volume-off.svg"
     },
     "volume-up": {
-      "codepoint": 62482,
+      "codepoint": 61480,
       "source": "svg/volume-up.svg"
     },
     "weibo": {
-      "codepoint": 62483,
+      "codepoint": 61834,
       "source": "svg/weibo.svg"
     },
     "weixin": {
-      "codepoint": 62484,
+      "codepoint": 61911,
       "source": "svg/weixin.svg"
     },
     "whatsapp": {
-      "codepoint": 62485,
+      "codepoint": 62002,
       "source": "svg/whatsapp.svg"
     },
     "wheelchair": {
-      "codepoint": 62486,
+      "codepoint": 61843,
       "source": "svg/wheelchair.svg"
     },
     "wheelchair-alt": {
-      "codepoint": 62487,
+      "codepoint": 62107,
       "source": "svg/wheelchair-alt.svg"
     },
     "wifi": {
-      "codepoint": 62488,
+      "codepoint": 61931,
       "source": "svg/wifi.svg"
     },
     "wikidata": {
-      "codepoint": 62489,
+      "codepoint": 62234,
       "source": "svg/wikidata.svg"
     },
     "wikipedia-w": {
-      "codepoint": 62490,
+      "codepoint": 62054,
       "source": "svg/wikipedia-w.svg"
     },
     "window-close": {
-      "codepoint": 62491,
+      "codepoint": 62163,
       "source": "svg/window-close.svg"
     },
     "window-close-o": {
-      "codepoint": 62492,
+      "codepoint": 62164,
       "source": "svg/window-close-o.svg"
     },
     "window-maximize": {
-      "codepoint": 62493,
+      "codepoint": 62160,
       "source": "svg/window-maximize.svg"
     },
     "window-minimize": {
-      "codepoint": 62494,
+      "codepoint": 62161,
       "source": "svg/window-minimize.svg"
     },
     "window-restore": {
-      "codepoint": 62495,
+      "codepoint": 62162,
       "source": "svg/window-restore.svg"
     },
     "windows": {
-      "codepoint": 62496,
+      "codepoint": 61818,
       "source": "svg/windows.svg"
     },
     "wire": {
-      "codepoint": 62497,
+      "codepoint": 62252,
       "source": "svg/wire.svg"
     },
+    "won-sign": {
+      "codepoint": 8361,
+      "source": "svg/krw.svg"
+    },
     "wordpress": {
-      "codepoint": 62498,
+      "codepoint": 61850,
       "source": "svg/wordpress.svg"
     },
     "wpbeginner": {
-      "codepoint": 62499,
+      "codepoint": 62103,
       "source": "svg/wpbeginner.svg"
     },
     "wpexplorer": {
-      "codepoint": 62500,
+      "codepoint": 62174,
       "source": "svg/wpexplorer.svg"
     },
     "wpforms": {
-      "codepoint": 62501,
+      "codepoint": 62104,
       "source": "svg/wpforms.svg"
     },
     "wrench": {
-      "codepoint": 62502,
+      "codepoint": 61613,
       "source": "svg/wrench.svg"
     },
     "xing": {
-      "codepoint": 62503,
+      "codepoint": 61800,
       "source": "svg/xing.svg"
     },
     "xing-square": {
-      "codepoint": 62504,
+      "codepoint": 61801,
       "source": "svg/xing-square.svg"
     },
     "xmpp": {
-      "codepoint": 62505,
+      "codepoint": 62202,
       "source": "svg/xmpp.svg"
     },
     "y-combinator": {
-      "codepoint": 62506,
+      "codepoint": 62011,
       "source": "svg/y-combinator.svg"
     },
     "yahoo": {
-      "codepoint": 62507,
+      "codepoint": 61854,
       "source": "svg/yahoo.svg"
     },
     "yelp": {
-      "codepoint": 62508,
+      "codepoint": 61929,
       "source": "svg/yelp.svg"
     },
+    "yen-sign": {
+      "codepoint": 165,
+      "source": "svg/jpy.svg"
+    },
     "yoast": {
-      "codepoint": 62509,
+      "codepoint": 62129,
       "source": "svg/yoast.svg"
     },
     "youtube": {
-      "codepoint": 62510,
+      "codepoint": 61799,
       "source": "svg/youtube.svg"
     },
     "youtube-play": {
-      "codepoint": 62511,
+      "codepoint": 61802,
       "source": "svg/youtube-play.svg"
     },
     "youtube-square": {
-      "codepoint": 62512,
+      "codepoint": 61798,
       "source": "svg/youtube-square.svg"
     },
     "zotero": {
-      "codepoint": 62513,
+      "codepoint": 61615,
       "source": "svg/zotero.svg"
     }
   },
